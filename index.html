@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anglicismos en Redes Sociales</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
+  <script src="/js/app.js" defer></script>
+</head>
+<body>
+
+  <header>
+    <h1>Anglicismos en Redes Sociales</h1>
+    <p>Análisis del corpus · TFG Lingüística</p>
+    <div class="pills-row">
+      <div class="pill"><span>602</span> ocurrencias</div>
+      <div class="pill"><span>133</span> anglicismos únicos</div>
+      <div class="pill"><span>3</span> redes sociales</div>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- Filters -->
+    <div class="filters-card">
+      <div class="filter-group">
+        <label>Tipo de gráfico</label>
+        <div class="chart-type-group">
+          <button class="active" data-type="bar"      title="Barras">📊 Barras</button>
+          <button               data-type="line"     title="Líneas">📈 Líneas</button>
+          <button               data-type="doughnut" title="Porcentual">🥧 %</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <label for="platformFilter">Red social</label>
+        <select id="platformFilter">
+          <option value="">Todas las redes</option>
+          <option value="TikTok">TikTok</option>
+          <option value="Instagram">Instagram</option>
+          <option value="WhatsApp">WhatsApp</option>
+        </select>
+      </div>
+
+      <div class="filter-group" style="min-width: 200px">
+        <label for="anglicismFilter">Anglicismo concreto</label>
+        <select id="anglicismFilter">
+          <option value="">Ver ranking general</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Chart -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title"    id="chartTitle">Top anglicismos más usados</div>
+          <div class="chart-subtitle" id="chartSubtitle">Frecuencia de aparición en el corpus total</div>
+        </div>
+        <div class="topn-group" id="topNWrapper">
+          <label for="topN">Mostrar top</label>
+          <select id="topN">
+            <option value="10">10</option>
+            <option value="15" selected>15</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+          </select>
+        </div>
+      </div>
+      <div class="chart-wrapper">
+        <canvas id="mainChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Examples (hidden until an anglicism is selected) -->
+    <div class="examples-card" id="examplesPanel" style="display: none">
+      <div class="examples-header">
+        <h3>Ejemplos de uso</h3>
+        <span class="examples-tag" id="examplesTag"></span>
+      </div>
+      <div class="examples-grid" id="examplesGrid"></div>
+    </div>
+
+  </main>
+
+</body>
+</html>
