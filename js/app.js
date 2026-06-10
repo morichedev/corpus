@@ -26,7 +26,7 @@ async function loadData() {
   wrapper.innerHTML = '<div class="loading-state">Cargando datos…</div>';
 
   try {
-    const res = await fetch("/api/data");
+    const res = await fetch("/data/anglicismos.json");
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const raw = await res.json();
     DATA = raw.map((r) => ({
