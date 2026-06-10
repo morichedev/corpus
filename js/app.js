@@ -19,8 +19,8 @@ const PALETTE = [
 let DATA             = [];
 let chartType        = "bar";
 let chartInstance    = null;
-let groupedMode      = true;
-let selectedVariants = new Set(); // variantes activas cuando hay anglicismo seleccionado
+const groupedMode    = true;
+let selectedVariants = new Set();
 
 /* ── Data loading ───────────────────────────────────────────────────────────── */
 async function loadData() {
@@ -406,16 +406,6 @@ function getFilters() {
   };
 }
 
-/* ── Group mode toggle ──────────────────────────────────────────────────────── */
-function setGroupMode(grouped) {
-  groupedMode = grouped;
-  selectedVariants.clear();
-  document.getElementById("btnGrouped").classList.toggle("active",  grouped);
-  document.getElementById("btnExact").classList.toggle("active", !grouped);
-  populateAnglicismSelect();
-  renderAll();
-}
-
 /* ── Event listeners ────────────────────────────────────────────────────────── */
 document.querySelectorAll(".chart-type-group button").forEach((btn) => {
   btn.addEventListener("click", () => {
@@ -436,8 +426,6 @@ document.getElementById("anglicismFilter").addEventListener("change", () => {
   renderAll();
 });
 document.getElementById("topN").addEventListener("change", renderAll);
-document.getElementById("btnGrouped").addEventListener("click", () => setGroupMode(true));
-document.getElementById("btnExact").addEventListener("click",   () => setGroupMode(false));
 
 /* ── Bootstrap ──────────────────────────────────────────────────────────────── */
 loadData();

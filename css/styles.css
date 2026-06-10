@@ -420,30 +420,6 @@ main {
   border-color: var(--accent2);
 }
 
-/* ── Group mode toggle ──────────────────────────────────────────────────────── */
-.group-toggle {
-  display: flex;
-  gap: 0.4rem;
-}
-
-.group-toggle button {
-  padding: 0.4rem 0.85rem;
-  border-radius: 8px;
-  border: 1.5px solid #e0e7ff;
-  background: white;
-  font-size: 0.82rem;
-  font-weight: 600;
-  cursor: pointer;
-  color: var(--muted);
-  transition: all 0.18s;
-}
-
-.group-toggle button:hover { border-color: var(--accent); color: var(--accent); }
-.group-toggle button.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: white;
-}
 
 /* ── Variant groups inside examples ────────────────────────────────────────── */
 .variant-group {
