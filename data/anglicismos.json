@@ -2,3011 +2,3601 @@
   {
     "p": "WhatsApp",
     "a": "Fomo",
-    "f": "Acho que fomo"
+    "f": "Acho que fomo",
+    "canonical": "fomo"
   },
   {
     "p": "WhatsApp",
     "a": "Pov",
-    "f": "pov: esa amiga con la que no tienes fotos"
+    "f": "pov: esa amiga con la que no tienes fotos",
+    "canonical": "pov"
   },
   {
     "p": "WhatsApp",
     "a": "Pov",
-    "f": "pov me salgo de la carrera"
+    "f": "pov me salgo de la carrera",
+    "canonical": "pov"
   },
   {
     "p": "WhatsApp",
     "a": "Pov",
-    "f": "pov yo me los estou leyendo todos"
+    "f": "pov yo me los estou leyendo todos",
+    "canonical": "pov"
   },
   {
     "p": "WhatsApp",
     "a": "Pov",
-    "f": "pov mi amiga la menos desesperada"
+    "f": "pov mi amiga la menos desesperada",
+    "canonical": "pov"
   },
   {
     "p": "WhatsApp",
     "a": "hype",
-    "f": "cuando se está con el hype hay que seguir"
+    "f": "cuando se está con el hype hay que seguir",
+    "canonical": "hype"
   },
   {
     "p": "WhatsApp",
     "a": "like",
-    "f": "ellos puya y puya y yo like like"
+    "f": "ellos puya y puya y yo like like",
+    "canonical": "like"
   },
   {
     "p": "WhatsApp",
     "a": "like always",
-    "f": "like always jajaja"
+    "f": "like always jajaja",
+    "canonical": "like"
   },
   {
     "p": "WhatsApp",
     "a": "like u",
-    "f": "gracias, but dont like u"
+    "f": "gracias, but dont like u",
+    "canonical": "like"
   },
   {
     "p": "WhatsApp",
     "a": "like",
-    "f": "darle like porfa"
+    "f": "darle like porfa",
+    "canonical": "like"
   },
   {
     "p": "WhatsApp",
     "a": "influencer fitness",
-    "f": "primera colaboración de inlfuencer fitness"
+    "f": "primera colaboración de inlfuencer fitness",
+    "canonical": "influencer"
   },
   {
     "p": "WhatsApp",
     "a": "influencer",
-    "f": "menos mal que soy influencer"
+    "f": "menos mal que soy influencer",
+    "canonical": "influencer"
   },
   {
     "p": "WhatsApp",
     "a": "streamer",
-    "f": "nbasket streamer"
+    "f": "nbasket streamer",
+    "canonical": "stream"
   },
   {
     "p": "WhatsApp",
     "a": "stremear",
-    "f": "pregunta si por stremear te puedes librar"
+    "f": "pregunta si por stremear te puedes librar",
+    "canonical": "stream"
   },
   {
     "p": "WhatsApp",
     "a": "stream",
-    "f": "enlace directo a stream!"
+    "f": "enlace directo a stream!",
+    "canonical": "stream"
   },
   {
     "p": "WhatsApp",
     "a": "streaming",
-    "f": "no daré el streaming de mañana"
+    "f": "no daré el streaming de mañana",
+    "canonical": "stream"
   },
   {
     "p": "WhatsApp",
     "a": "streaming",
-    "f": "el link del streaming de mañana"
+    "f": "el link del streaming de mañana",
+    "canonical": "stream"
   },
   {
     "p": "WhatsApp",
     "a": "followers",
-    "f": "no leer a tus followers"
+    "f": "no leer a tus followers",
+    "canonical": "follow"
   },
   {
     "p": "WhatsApp",
     "a": "random",
-    "f": "vaya grupo más random"
+    "f": "vaya grupo más random",
+    "canonical": "random"
   },
   {
     "p": "WhatsApp",
     "a": "random",
-    "f": "me sale una random"
+    "f": "me sale una random",
+    "canonical": "random"
   },
   {
     "p": "WhatsApp",
     "a": "random",
-    "f": "hace falta algo así random?"
+    "f": "hace falta algo así random?",
+    "canonical": "random"
   },
   {
     "p": "WhatsApp",
     "a": "random",
-    "f": "un bar de carretera random"
+    "f": "un bar de carretera random",
+    "canonical": "random"
   },
   {
     "p": "WhatsApp",
     "a": "random",
-    "f": "que vais a meter una random?"
+    "f": "que vais a meter una random?",
+    "canonical": "random"
   },
   {
     "p": "WhatsApp",
     "a": "outfit",
-    "f": "buen outfit"
+    "f": "buen outfit",
+    "canonical": "outfit"
   },
   {
     "p": "WhatsApp",
     "a": "outfit",
-    "f": "oyeeee vaya outfit más bonito"
+    "f": "oyeeee vaya outfit más bonito",
+    "canonical": "outfit"
   },
   {
     "p": "WhatsApp",
     "a": "outfit",
-    "f": "literal que ese sería mi outfit"
+    "f": "literal que ese sería mi outfit",
+    "canonical": "outfit"
   },
   {
     "p": "WhatsApp",
     "a": "outfit",
-    "f": "pásame foto outfut!!!!"
+    "f": "pásame foto outfut!!!!",
+    "canonical": "outfit"
   },
   {
     "p": "WhatsApp",
     "a": "outfits",
-    "f": "tres outfits traía yo"
+    "f": "tres outfits traía yo",
+    "canonical": "outfit"
   },
   {
     "p": "WhatsApp",
     "a": "skincare",
-    "f": "el mejor skincare"
+    "f": "el mejor skincare",
+    "canonical": "skincare"
   },
   {
     "p": "WhatsApp",
     "a": "skincare",
-    "f": "eva pasa rutina de skincare no?"
+    "f": "eva pasa rutina de skincare no?",
+    "canonical": "skincare"
   },
   {
     "p": "WhatsApp",
     "a": "skincare",
-    "f": "cosas para el skincare jaja"
+    "f": "cosas para el skincare jaja",
+    "canonical": "skincare"
   },
   {
     "p": "WhatsApp",
     "a": "good job",
-    "f": "good job, bonito cartel"
+    "f": "good job, bonito cartel",
+    "canonical": "good job"
   },
   {
     "p": "WhatsApp",
     "a": "great job",
-    "f": "great job macisss"
+    "f": "great job macisss",
+    "canonical": "good job"
   },
   {
     "p": "WhatsApp",
     "a": "coach",
-    "f": "qué ha dicho el coach?"
+    "f": "qué ha dicho el coach?",
+    "canonical": "coach"
   },
   {
     "p": "WhatsApp",
     "a": "coaches",
-    "f": "great job coaches"
+    "f": "great job coaches",
+    "canonical": "coach"
   },
   {
     "p": "WhatsApp",
     "a": "good job",
-    "f": "good job"
+    "f": "good job",
+    "canonical": "good job"
   },
   {
     "p": "WhatsApp",
     "a": "good job",
-    "f": "good job"
+    "f": "good job",
+    "canonical": "good job"
   },
   {
     "p": "WhatsApp",
     "a": "feeling",
-    "f": "y si hay feeling ya se vería"
+    "f": "y si hay feeling ya se vería",
+    "canonical": "feeling"
   },
   {
     "p": "WhatsApp",
     "a": "feeling",
-    "f": "de si hay feeling o no"
+    "f": "de si hay feeling o no",
+    "canonical": "feeling"
   },
   {
     "p": "WhatsApp",
     "a": "spoiler",
-    "f": "no me hagas más spoiler"
+    "f": "no me hagas más spoiler",
+    "canonical": "spoiler"
   },
   {
     "p": "WhatsApp",
     "a": "spoiler",
-    "f": "ji ome spoiler bo"
+    "f": "ji ome spoiler bo",
+    "canonical": "spoiler"
   },
   {
     "p": "WhatsApp",
     "a": "spoiler",
-    "f": "no me hagas spoiler que me enfado"
+    "f": "no me hagas spoiler que me enfado",
+    "canonical": "spoiler"
   },
   {
     "p": "WhatsApp",
     "a": "spoiler",
-    "f": "que no quiero hacer spoiler"
+    "f": "que no quiero hacer spoiler",
+    "canonical": "spoiler"
   },
   {
     "p": "WhatsApp",
     "a": "oversize",
-    "f": "es oversize"
+    "f": "es oversize",
+    "canonical": "oversize"
   },
   {
     "p": "WhatsApp",
     "a": "oversize",
-    "f": "las sudaderas oversize también"
+    "f": "las sudaderas oversize también",
+    "canonical": "oversize"
   },
   {
     "p": "WhatsApp",
     "a": "match",
-    "f": "que si hubo match con su amigo"
+    "f": "que si hubo match con su amigo",
+    "canonical": "match"
   },
   {
     "p": "WhatsApp",
     "a": "feedback",
-    "f": "tendremos que saber si hay feedback"
+    "f": "tendremos que saber si hay feedback",
+    "canonical": "feedback"
   },
   {
     "p": "WhatsApp",
     "a": "feedback",
-    "f": "pero por si acaso, te hago el feedback"
+    "f": "pero por si acaso, te hago el feedback",
+    "canonical": "feedback"
   },
   {
     "p": "WhatsApp",
     "a": "crack",
-    "f": "un crack"
+    "f": "un crack",
+    "canonical": "crack"
   },
   {
     "p": "WhatsApp",
     "a": "red flag",
-    "f": "ese tio es una red flag andante"
+    "f": "ese tio es una red flag andante",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "red flag",
-    "f": "primera red flag si"
+    "f": "primera red flag si",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "red flag",
-    "f": "pero más red flag si no lo hace"
+    "f": "pero más red flag si no lo hace",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "red flags",
-    "f": "cómo no viste las red flags?"
+    "f": "cómo no viste las red flags?",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "red flag",
-    "f": "tremenda red flag "
+    "f": "tremenda red flag ",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "red flag",
-    "f": "pedazo de red flag"
+    "f": "pedazo de red flag",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "red flag",
-    "f": "eso ha dicho? Menuda red flag"
+    "f": "eso ha dicho? Menuda red flag",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "red flag",
-    "f": "eres una red flag, pero te quiero "
+    "f": "eres una red flag, pero te quiero ",
+    "canonical": "red flag"
   },
   {
     "p": "WhatsApp",
     "a": "mood",
-    "f": "vaya mood llevamos"
+    "f": "vaya mood llevamos",
+    "canonical": "mood"
   },
   {
     "p": "WhatsApp",
     "a": "mood",
-    "f": "no estoy en el mood"
+    "f": "no estoy en el mood",
+    "canonical": "mood"
   },
   {
     "p": "WhatsApp",
     "a": "mood",
-    "f": "Marina mood"
+    "f": "Marina mood",
+    "canonical": "mood"
   },
   {
     "p": "WhatsApp",
     "a": "selfie",
-    "f": "yo por mí un selfie juntos"
+    "f": "yo por mí un selfie juntos",
+    "canonical": "selfie"
   },
   {
     "p": "WhatsApp",
     "a": "selfies",
-    "f": "la orla de selfies"
+    "f": "la orla de selfies",
+    "canonical": "selfie"
   },
   {
     "p": "WhatsApp",
     "a": "selfie",
-    "f": "el último selfie"
+    "f": "el último selfie",
+    "canonical": "selfie"
   },
   {
     "p": "WhatsApp",
     "a": "lookazo",
-    "f": "había pensado un lookazo"
+    "f": "había pensado un lookazo",
+    "canonical": "look"
   },
   {
     "p": "WhatsApp",
     "a": "look",
-    "f": "y cuál es el look preboda?"
+    "f": "y cuál es el look preboda?",
+    "canonical": "look"
   },
   {
     "p": "WhatsApp",
     "a": "looking",
-    "f": "acho y ese looking"
+    "f": "acho y ese looking",
+    "canonical": "look"
   },
   {
     "p": "WhatsApp",
     "a": "look",
-    "f": "tengo dudas sobre mi look"
+    "f": "tengo dudas sobre mi look",
+    "canonical": "look"
   },
   {
     "p": "WhatsApp",
     "a": "sorry",
-    "f": "sorry que estaba en clase"
+    "f": "sorry que estaba en clase",
+    "canonical": "sorry"
   },
   {
     "p": "WhatsApp",
     "a": "hater",
-    "f": "cuando te pones en plan hater "
+    "f": "cuando te pones en plan hater ",
+    "canonical": "hater"
   },
   {
     "p": "WhatsApp",
     "a": "hater",
-    "f": "que hater mío eres"
+    "f": "que hater mío eres",
+    "canonical": "hater"
   },
   {
     "p": "WhatsApp",
     "a": "hackeo",
-    "f": "tiene hackeao instagram"
+    "f": "tiene hackeao instagram",
+    "canonical": "hackear"
   },
   {
     "p": "WhatsApp",
     "a": "hackeadas",
-    "f": "os tiene hackeadas"
+    "f": "os tiene hackeadas",
+    "canonical": "hackear"
   },
   {
     "p": "WhatsApp",
     "a": "hackea",
-    "f": "que os hackea"
+    "f": "que os hackea",
+    "canonical": "hackear"
   },
   {
     "p": "WhatsApp",
     "a": "fake",
-    "f": "lo que pone es fake"
+    "f": "lo que pone es fake",
+    "canonical": "fake"
   },
   {
     "p": "WhatsApp",
     "a": "fake",
-    "f": "el resto son fake"
+    "f": "el resto son fake",
+    "canonical": "fake"
   },
   {
     "p": "WhatsApp",
     "a": "fomo",
-    "f": "que fomo"
+    "f": "que fomo",
+    "canonical": "fomo"
   },
   {
     "p": "WhatsApp",
     "a": "fomo",
-    "f": "le puede el fomo"
+    "f": "le puede el fomo",
+    "canonical": "fomo"
   },
   {
     "p": "WhatsApp",
     "a": "fomo",
-    "f": "0 fomo"
+    "f": "0 fomo",
+    "canonical": "fomo"
   },
   {
     "p": "WhatsApp",
     "a": "fomo",
-    "f": "hostia que puto fomo"
+    "f": "hostia que puto fomo",
+    "canonical": "fomo"
   },
   {
     "p": "WhatsApp",
     "a": "aesthetics",
-    "f": "a hacernos las asthetics tia"
+    "f": "a hacernos las asthetics tia",
+    "canonical": "aesthetic"
   },
   {
     "p": "WhatsApp",
     "a": "aestetic",
-    "f": "que aestetic"
+    "f": "que aestetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "WhatsApp",
     "a": "aesthetic",
-    "f": "mira qué cuadro tan aesthetic me he comprado"
+    "f": "mira qué cuadro tan aesthetic me he comprado",
+    "canonical": "aesthetic"
   },
   {
     "p": "WhatsApp",
     "a": "aestetics",
-    "f": "que hispaniques aestetics"
+    "f": "que hispaniques aestetics",
+    "canonical": "aesthetic"
   },
   {
     "p": "WhatsApp",
     "a": "crush",
-    "f": "era mi crush en secreto"
+    "f": "era mi crush en secreto",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "crush",
-    "f": "he de decir que era mi crush de primaria"
+    "f": "he de decir que era mi crush de primaria",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "crushes",
-    "f": "sobre nuestros crushes"
+    "f": "sobre nuestros crushes",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "crush",
-    "f": "era mi crush de peque"
+    "f": "era mi crush de peque",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "crush",
-    "f": "mi crush del pueblo tia"
+    "f": "mi crush del pueblo tia",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "crush",
-    "f": "es que no se que le ve de crush"
+    "f": "es que no se que le ve de crush",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "crush",
-    "f": "a mi me ha tocado mi crush"
+    "f": "a mi me ha tocado mi crush",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "crush",
-    "f": "eres su crush"
+    "f": "eres su crush",
+    "canonical": "crush"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "bro es que encima no se"
+    "f": "bro es que encima no se",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "brodel",
-    "f": "no la entiendo brodel"
+    "f": "no la entiendo brodel",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "broder",
-    "f": "broder"
+    "f": "broder",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "bro es normal"
+    "f": "bro es normal",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "me lo tomaré como un cumplido bro"
+    "f": "me lo tomaré como un cumplido bro",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "broder",
-    "f": "broder"
+    "f": "broder",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "acho bro"
+    "f": "acho bro",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "bro eso fue hace un huevo"
+    "f": "bro eso fue hace un huevo",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "bro a la tia le encantó"
+    "f": "bro a la tia le encantó",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "broder",
-    "f": "broder iba totalmente etílico"
+    "f": "broder iba totalmente etílico",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "que va bro"
+    "f": "que va bro",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "broooooo"
+    "f": "broooooo",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "mi bro"
+    "f": "mi bro",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "broder",
-    "f": "broder si estuve a punto de lanzarme "
+    "f": "broder si estuve a punto de lanzarme ",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "bro",
-    "f": "bro antes por la tarde"
+    "f": "bro antes por la tarde",
+    "canonical": "bro"
   },
   {
     "p": "WhatsApp",
     "a": "pusis",
-    "f": "mis pusis jo"
+    "f": "mis pusis jo",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pusis",
-    "f": "que tal la resaca mis pusis"
+    "f": "que tal la resaca mis pusis",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pussi",
-    "f": "mira pussi"
+    "f": "mira pussi",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pussi",
-    "f": "ya estoy pussi"
+    "f": "ya estoy pussi",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pussianos",
-    "f": "los sudores pussianos"
+    "f": "los sudores pussianos",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pussy",
-    "f": "gente pussy supongo"
+    "f": "gente pussy supongo",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pusei",
-    "f": "hay que ponerse pusei"
+    "f": "hay que ponerse pusei",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pusei",
-    "f": "no les hagas caso pusei"
+    "f": "no les hagas caso pusei",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pusei",
-    "f": "mis puseis pletóricas"
+    "f": "mis puseis pletóricas",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "puseis",
-    "f": "estabas hormonada hasta las trancas pusei"
+    "f": "estabas hormonada hasta las trancas pusei",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "puseis",
-    "f": "ay que ganas de ir a la playa con mis puseis"
+    "f": "ay que ganas de ir a la playa con mis puseis",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pusei",
-    "f": "ánimo pusei"
+    "f": "ánimo pusei",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pusei",
-    "f": "pusei que tal"
+    "f": "pusei que tal",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "pusei",
-    "f": "mañana hablamos pusei"
+    "f": "mañana hablamos pusei",
+    "canonical": "pusi"
   },
   {
     "p": "WhatsApp",
     "a": "busteado",
-    "f": "acho está bisteado"
+    "f": "acho está bisteado",
+    "canonical": "bustear"
   },
   {
     "p": "WhatsApp",
     "a": "bustear",
-    "f": "tenemos que bustear la página web"
+    "f": "tenemos que bustear la página web",
+    "canonical": "bustear"
   },
   {
     "p": "WhatsApp",
     "a": "bustea",
-    "f": "si pagas, te lo bustea"
+    "f": "si pagas, te lo bustea",
+    "canonical": "bustear"
   },
   {
     "p": "WhatsApp",
     "a": "busteao",
-    "f": "parece que está busteao"
+    "f": "parece que está busteao",
+    "canonical": "bustear"
   },
   {
     "p": "WhatsApp",
     "a": "hypea",
-    "f": "lo que pasa es que bad bunny te hypea los conciertos"
+    "f": "lo que pasa es que bad bunny te hypea los conciertos",
+    "canonical": "hype"
   },
   {
     "p": "WhatsApp",
     "a": "hype",
-    "f": "acho qué hype, quiero ver la peli ya"
+    "f": "acho qué hype, quiero ver la peli ya",
+    "canonical": "hype"
   },
   {
     "p": "WhatsApp",
     "a": "hype",
-    "f": "acho bro es que vaya hype había"
+    "f": "acho bro es que vaya hype había",
+    "canonical": "hype"
   },
   {
     "p": "WhatsApp",
     "a": "cringe",
-    "f": "no daría cringe si supieran actuar"
+    "f": "no daría cringe si supieran actuar",
+    "canonical": "cringe"
   },
   {
     "p": "WhatsApp",
     "a": "cringe",
-    "f": "na fuera coñas es muy cringe"
+    "f": "na fuera coñas es muy cringe",
+    "canonical": "cringe"
   },
   {
     "p": "WhatsApp",
     "a": "cringe",
-    "f": "acho que cringe"
+    "f": "acho que cringe",
+    "canonical": "cringe"
   },
   {
     "p": "WhatsApp",
     "a": "cringe",
-    "f": "que cringe"
+    "f": "que cringe",
+    "canonical": "cringe"
   },
   {
     "p": "WhatsApp",
     "a": "cringe",
-    "f": "madre mia que cringe me da "
+    "f": "madre mia que cringe me da ",
+    "canonical": "cringe"
   },
   {
     "p": "WhatsApp",
     "a": "cringe",
-    "f": "mucho cringe pero ahí está"
+    "f": "mucho cringe pero ahí está",
+    "canonical": "cringe"
   },
   {
     "p": "WhatsApp",
     "a": "mental breakdown",
-    "f": "con cada mental breakdown"
+    "f": "con cada mental breakdown",
+    "canonical": "mental breakdown"
   },
   {
     "p": "WhatsApp",
     "a": "mental breakdown",
-    "f": "me dio un mental breakdown"
+    "f": "me dio un mental breakdown",
+    "canonical": "mental breakdown"
   },
   {
     "p": "WhatsApp",
     "a": "sorry",
-    "f": "sorry que estaba dormida"
+    "f": "sorry que estaba dormida",
+    "canonical": "sorry"
   },
   {
     "p": "WhatsApp",
     "a": "sorry",
-    "f": "no puedo ir al entreno, sorry"
+    "f": "no puedo ir al entreno, sorry",
+    "canonical": "sorry"
   },
   {
     "p": "WhatsApp",
     "a": "sorry",
-    "f": "sorry que hoy no piso casa"
+    "f": "sorry que hoy no piso casa",
+    "canonical": "sorry"
   },
   {
     "p": "WhatsApp",
     "a": "sorry",
-    "f": "sorry si hoy estoy menos activa"
+    "f": "sorry si hoy estoy menos activa",
+    "canonical": "sorry"
   },
   {
     "p": "WhatsApp",
     "a": "sorry",
-    "f": "sorry no había leido jajja"
+    "f": "sorry no había leido jajja",
+    "canonical": "sorry"
   },
   {
     "p": "WhatsApp",
     "a": "sorry",
-    "f": "sorry"
+    "f": "sorry",
+    "canonical": "sorry"
   },
   {
     "p": "WhatsApp",
     "a": "shippeo",
-    "f": "a esos los shippeo mucho"
+    "f": "a esos los shippeo mucho",
+    "canonical": "shipear"
   },
   {
     "p": "WhatsApp",
     "a": "shippeo",
-    "f": "nuevo shippeo?"
+    "f": "nuevo shippeo?",
+    "canonical": "shipear"
   },
   {
     "p": "WhatsApp",
     "a": "ships",
-    "f": "vivan los ships"
+    "f": "vivan los ships",
+    "canonical": "shipear"
   },
   {
     "p": "WhatsApp",
     "a": "shipeaba",
-    "f": "yo también los shipeaba"
+    "f": "yo también los shipeaba",
+    "canonical": "shipear"
   },
   {
     "p": "WhatsApp",
     "a": "shipeo",
-    "f": "yo también las shipeo"
+    "f": "yo también las shipeo",
+    "canonical": "shipear"
   },
   {
     "p": "WhatsApp",
     "a": "stalkear",
-    "f": "me encanta stalkear"
+    "f": "me encanta stalkear",
+    "canonical": "stalkear"
   },
   {
     "p": "WhatsApp",
     "a": "stalkeandola",
-    "f": "nuñez stalkeandola"
+    "f": "nuñez stalkeandola",
+    "canonical": "stalkear"
   },
   {
     "p": "WhatsApp",
     "a": "stalker",
-    "f": "porque es una stalker"
+    "f": "porque es una stalker",
+    "canonical": "stalkear"
   },
   {
     "p": "WhatsApp",
     "a": "stalkeando",
-    "f": "te estaba stalkeando"
+    "f": "te estaba stalkeando",
+    "canonical": "stalkear"
   },
   {
     "p": "Instagram",
     "a": "on point",
-    "f": "transiciones on point"
+    "f": "transiciones on point",
+    "canonical": "on point"
   },
   {
     "p": "Instagram",
     "a": "on point",
-    "f": "estás on point"
+    "f": "estás on point",
+    "canonical": "on point"
   },
   {
     "p": "Instagram",
     "a": "story time",
-    "f": "yo quiero el story time"
+    "f": "yo quiero el story time",
+    "canonical": "storytime"
   },
   {
     "p": "Instagram",
     "a": "storytime",
-    "f": "storytime"
+    "f": "storytime",
+    "canonical": "storytime"
   },
   {
     "p": "Instagram",
     "a": "story time",
-    "f": "stpry time de cómo entré en la casita"
+    "f": "stpry time de cómo entré en la casita",
+    "canonical": "storytime"
   },
   {
     "p": "Instagram",
     "a": "summer",
-    "f": "summer in Lisboa"
+    "f": "summer in Lisboa",
+    "canonical": "summer"
   },
   {
     "p": "Instagram",
     "a": "summer",
-    "f": "summer nights"
+    "f": "summer nights",
+    "canonical": "summer"
   },
   {
     "p": "Instagram",
     "a": "summer",
-    "f": "summer dress"
+    "f": "summer dress",
+    "canonical": "summer"
   },
   {
     "p": "Instagram",
     "a": "looking",
-    "f": "estás buscando looking? Quédate"
+    "f": "estás buscando looking? Quédate",
+    "canonical": "look"
   },
   {
     "p": "Instagram",
     "a": "look",
-    "f": "el look es de Zara chicas"
+    "f": "el look es de Zara chicas",
+    "canonical": "look"
   },
   {
     "p": "Instagram",
     "a": "look",
-    "f": "todos los complementos perfectos para este look"
+    "f": "todos los complementos perfectos para este look",
+    "canonical": "look"
   },
   {
     "p": "Instagram",
     "a": "look",
-    "f": "accesorios para un look de zara"
+    "f": "accesorios para un look de zara",
+    "canonical": "look"
   },
   {
     "p": "Instagram",
     "a": "look",
-    "f": "vaya look llevas cariño…"
+    "f": "vaya look llevas cariño…",
+    "canonical": "look"
   },
   {
     "p": "Instagram",
     "a": "lookazo",
-    "f": "pero y ese lookazo?"
+    "f": "pero y ese lookazo?",
+    "canonical": "look"
   },
   {
     "p": "Instagram",
     "a": "shippeos",
-    "f": "shippeos falsos"
+    "f": "shippeos falsos",
+    "canonical": "shipear"
   },
   {
     "p": "Instagram",
     "a": "prime",
-    "f": "prime absoluto"
+    "f": "prime absoluto",
+    "canonical": "prime"
   },
   {
     "p": "Instagram",
     "a": "prime",
-    "f": "tía estás en tu puto prime "
+    "f": "tía estás en tu puto prime ",
+    "canonical": "prime"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wow estás preciosa amiga"
+    "f": "wow estás preciosa amiga",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wowwwww"
+    "f": "wowwwww",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wow menuda diosa"
+    "f": "wow menuda diosa",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wow, estás preciosa"
+    "f": "wow, estás preciosa",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "lets go",
-    "f": "letsgoooooo"
+    "f": "letsgoooooo",
+    "canonical": "lets go"
   },
   {
     "p": "Instagram",
     "a": "love u",
-    "f": "love u princesita"
+    "f": "love u princesita",
+    "canonical": "love u"
   },
   {
     "p": "Instagram",
     "a": "love it",
-    "f": "loveeee it"
+    "f": "loveeee it",
+    "canonical": "love it"
   },
   {
     "p": "Instagram",
     "a": "aesthetic",
-    "f": "tia que aestheticccc"
+    "f": "tia que aestheticccc",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aestetic",
-    "f": "amo, eres super aestetic"
+    "f": "amo, eres super aestetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aesthetics",
-    "f": "sabes estas influs aesthetics?"
+    "f": "sabes estas influs aesthetics?",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aesthetic",
-    "f": "#aesthetic"
+    "f": "#aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aesthetic",
-    "f": "#aestheticpaint"
+    "f": "#aestheticpaint",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aesthetic",
-    "f": "#aestheticart"
+    "f": "#aestheticart",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aesthetic",
-    "f": "me encanta tu habitación, tiene un rollo aesthetic"
+    "f": "me encanta tu habitación, tiene un rollo aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aesthetic",
-    "f": "#aesthetic"
+    "f": "#aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "aestetics",
-    "f": "tia que fotos mas aestetics"
+    "f": "tia que fotos mas aestetics",
+    "canonical": "aesthetic"
   },
   {
     "p": "Instagram",
     "a": "random",
-    "f": "piensa rapido, soy un chico random"
+    "f": "piensa rapido, soy un chico random",
+    "canonical": "random"
   },
   {
     "p": "Instagram",
     "a": "random",
-    "f": "quien es este random?"
+    "f": "quien es este random?",
+    "canonical": "random"
   },
   {
     "p": "Instagram",
     "a": "random",
-    "f": "me ha empezado a seguir este random"
+    "f": "me ha empezado a seguir este random",
+    "canonical": "random"
   },
   {
     "p": "Instagram",
     "a": "random",
-    "f": "vaya foto random JAJJJA"
+    "f": "vaya foto random JAJJJA",
+    "canonical": "random"
   },
   {
     "p": "Instagram",
     "a": "random",
-    "f": "qué random me parece la actividad esa"
+    "f": "qué random me parece la actividad esa",
+    "canonical": "random"
   },
   {
     "p": "Instagram",
     "a": "hype",
-    "f": "ese restaurante está sobrevalorado, tiene demasiado hype"
+    "f": "ese restaurante está sobrevalorado, tiene demasiado hype",
+    "canonical": "hype"
   },
   {
     "p": "Instagram",
     "a": "hype",
-    "f": "no me quiero subir al carro del hype"
+    "f": "no me quiero subir al carro del hype",
+    "canonical": "hype"
   },
   {
     "p": "Instagram",
     "a": "likes",
-    "f": "cuántos likes tiene Alexia Putellas?"
+    "f": "cuántos likes tiene Alexia Putellas?",
+    "canonical": "like"
   },
   {
     "p": "Instagram",
     "a": "likes",
-    "f": "esta tiene una de likes"
+    "f": "esta tiene una de likes",
+    "canonical": "like"
   },
   {
     "p": "Instagram",
     "a": "likes",
-    "f": "pero cómo puede tener tantos likes?"
+    "f": "pero cómo puede tener tantos likes?",
+    "canonical": "like"
   },
   {
     "p": "Instagram",
     "a": "like",
-    "f": "venga, y le da like este"
+    "f": "venga, y le da like este",
+    "canonical": "like"
   },
   {
     "p": "Instagram",
     "a": "like",
-    "f": "en serio le vas a dar like?"
+    "f": "en serio le vas a dar like?",
+    "canonical": "like"
   },
   {
     "p": "Instagram",
     "a": "selfie",
-    "f": "tiaaaa pasame ese selfie"
+    "f": "tiaaaa pasame ese selfie",
+    "canonical": "selfie"
   },
   {
     "p": "Instagram",
     "a": "selfie",
-    "f": "casi me caigo con este selfie"
+    "f": "casi me caigo con este selfie",
+    "canonical": "selfie"
   },
   {
     "p": "Instagram",
     "a": "selfie",
-    "f": "selfie padreeee"
+    "f": "selfie padreeee",
+    "canonical": "selfie"
   },
   {
     "p": "Instagram",
     "a": "selfie",
-    "f": "selfie con tu madre yaaaa"
+    "f": "selfie con tu madre yaaaa",
+    "canonical": "selfie"
   },
   {
     "p": "Instagram",
     "a": "selfies",
-    "f": "solo tienes esos selfies?"
+    "f": "solo tienes esos selfies?",
+    "canonical": "selfie"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "me mira como si le diera cringe"
+    "f": "me mira como si le diera cringe",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "pero cómo no te va a dar cringe?"
+    "f": "pero cómo no te va a dar cringe?",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "esto sí que es cringe"
+    "f": "esto sí que es cringe",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "bórralo ya, qué cringe"
+    "f": "bórralo ya, qué cringe",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "CRINGE ABSOLUTO"
+    "f": "CRINGE ABSOLUTO",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "hostia no me digas que no da cringe"
+    "f": "hostia no me digas que no da cringe",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "Dioooos que cringe"
+    "f": "Dioooos que cringe",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "dan un cringe de la leche"
+    "f": "dan un cringe de la leche",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "cringe",
-    "f": "acho que cringe, no me pegan nada juntos"
+    "f": "acho que cringe, no me pegan nada juntos",
+    "canonical": "cringe"
   },
   {
     "p": "Instagram",
     "a": "link",
-    "f": "pásame el link del partido porfa"
+    "f": "pásame el link del partido porfa",
+    "canonical": "link"
   },
   {
     "p": "Instagram",
     "a": "shock",
-    "f": "estoy en shock con el video de la paula"
+    "f": "estoy en shock con el video de la paula",
+    "canonical": "shock"
   },
   {
     "p": "Instagram",
     "a": "vintage",
-    "f": "bua, que camiseta vintage me he comprado"
+    "f": "bua, que camiseta vintage me he comprado",
+    "canonical": "vintage"
   },
   {
     "p": "Instagram",
     "a": "vintage",
-    "f": "toda la ropa es vintage?"
+    "f": "toda la ropa es vintage?",
+    "canonical": "vintage"
   },
   {
     "p": "Instagram",
     "a": "show",
-    "f": "has visto el show que tienen montado?"
+    "f": "has visto el show que tienen montado?",
+    "canonical": "show"
   },
   {
     "p": "Instagram",
     "a": "crush",
-    "f": "ayer me crucé con mi crush"
+    "f": "ayer me crucé con mi crush",
+    "canonical": "crush"
   },
   {
     "p": "Instagram",
     "a": "crush",
-    "f": "no puedes ser más crush tía"
+    "f": "no puedes ser más crush tía",
+    "canonical": "crush"
   },
   {
     "p": "Instagram",
     "a": "crush",
-    "f": "me puse a stalkear a mi crush"
+    "f": "me puse a stalkear a mi crush",
+    "canonical": "crush"
   },
   {
     "p": "Instagram",
     "a": "outfit",
-    "f": "tremendo outfit hermanaaa"
+    "f": "tremendo outfit hermanaaa",
+    "canonical": "outfit"
   },
   {
     "p": "Instagram",
     "a": "outfit",
-    "f": "inspo del outfit?"
+    "f": "inspo del outfit?",
+    "canonical": "outfit"
   },
   {
     "p": "Instagram",
     "a": "outfit",
-    "f": "de dónde es el outfit?"
+    "f": "de dónde es el outfit?",
+    "canonical": "outfit"
   },
   {
     "p": "Instagram",
     "a": "outfit",
-    "f": "sirviendo outfit"
+    "f": "sirviendo outfit",
+    "canonical": "outfit"
   },
   {
     "p": "Instagram",
     "a": "outfit",
-    "f": "outfit??"
+    "f": "outfit??",
+    "canonical": "outfit"
   },
   {
     "p": "Instagram",
     "a": "outfit",
-    "f": "tu outfit qué es?"
+    "f": "tu outfit qué es?",
+    "canonical": "outfit"
   },
   {
     "p": "Instagram",
     "a": "outfit",
-    "f": "flipo con el outfit"
+    "f": "flipo con el outfit",
+    "canonical": "outfit"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wow estás preciosa amiga"
+    "f": "wow estás preciosa amiga",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wowwwww"
+    "f": "wowwwww",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wow menuda diosa"
+    "f": "wow menuda diosa",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wow, estás preciosa"
+    "f": "wow, estás preciosa",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "woooowwww"
+    "f": "woooowwww",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wowowoowowowow"
+    "f": "wowowoowowowow",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wwoooow amigaaa"
+    "f": "wwoooow amigaaa",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "wow",
-    "f": "wow estas preciosa tia"
+    "f": "wow estas preciosa tia",
+    "canonical": "wow"
   },
   {
     "p": "Instagram",
     "a": "red flag",
-    "f": "pero cómo va a subir eso, tremenda red flag"
+    "f": "pero cómo va a subir eso, tremenda red flag",
+    "canonical": "red flag"
   },
   {
     "p": "Instagram",
     "a": "red flag",
-    "f": "tia no jodas, si es una red flag humana"
+    "f": "tia no jodas, si es una red flag humana",
+    "canonical": "red flag"
   },
   {
     "p": "Instagram",
     "a": "red flags",
-    "f": "red flags que no viste"
+    "f": "red flags que no viste",
+    "canonical": "red flag"
   },
   {
     "p": "Instagram",
     "a": "green flag",
-    "f": "eso sí es una green flag"
+    "f": "eso sí es una green flag",
+    "canonical": "green flag"
   },
   {
     "p": "Instagram",
     "a": "green flag",
-    "f": "tía me encanta, que suba fotos contigo green flag total"
+    "f": "tía me encanta, que suba fotos contigo green flag total",
+    "canonical": "green flag"
   },
   {
     "p": "Instagram",
     "a": "green flag",
-    "f": "me encanta que se lleve bien con su familia, para mi es una green flag total"
+    "f": "me encanta que se lleve bien con su familia, para mi es una green flag total",
+    "canonical": "green flag"
   },
   {
     "p": "Instagram",
     "a": "ghosting",
-    "f": "el tio este me está haciendo ghosting"
+    "f": "el tio este me está haciendo ghosting",
+    "canonical": "ghostear"
   },
   {
     "p": "Instagram",
     "a": "ghostea",
-    "f": "es que me ghostea"
+    "f": "es que me ghostea",
+    "canonical": "ghostear"
   },
   {
     "p": "Instagram",
     "a": "ghostea",
-    "f": "sube fotos y me ghostea"
+    "f": "sube fotos y me ghostea",
+    "canonical": "ghostear"
   },
   {
     "p": "Instagram",
     "a": "ghosteando",
-    "f": "me está ghosteando el cabron"
+    "f": "me está ghosteando el cabron",
+    "canonical": "ghostear"
   },
   {
     "p": "Instagram",
     "a": "ghostear",
-    "f": "luego le encanta ghostear"
+    "f": "luego le encanta ghostear",
+    "canonical": "ghostear"
   },
   {
     "p": "Instagram",
     "a": "vibes",
-    "f": "me da buenas vibes"
+    "f": "me da buenas vibes",
+    "canonical": "vibe"
   },
   {
     "p": "Instagram",
     "a": "vibes",
-    "f": "good vibes tia"
+    "f": "good vibes tia",
+    "canonical": "vibe"
   },
   {
     "p": "Instagram",
     "a": "vibes",
-    "f": "esta cafetería da buenas vibes"
+    "f": "esta cafetería da buenas vibes",
+    "canonical": "vibe"
   },
   {
     "p": "Instagram",
     "a": "vibes",
-    "f": "green vibes"
+    "f": "green vibes",
+    "canonical": "vibe"
   },
   {
     "p": "Instagram",
     "a": "vibes",
-    "f": "has visto este sitio? Buenas vibes aseguradas"
+    "f": "has visto este sitio? Buenas vibes aseguradas",
+    "canonical": "vibe"
   },
   {
     "p": "Instagram",
     "a": "vibes",
-    "f": "este me da malas vibes, no sé"
+    "f": "este me da malas vibes, no sé",
+    "canonical": "vibe"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "verano mood"
+    "f": "verano mood",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "estoy en el mood total"
+    "f": "estoy en el mood total",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "no estás en el mood"
+    "f": "no estás en el mood",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "no estáis en el mood"
+    "f": "no estáis en el mood",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "mood de verano activado"
+    "f": "mood de verano activado",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "odio el mood de invierno"
+    "f": "odio el mood de invierno",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "vaya mood llevamos"
+    "f": "vaya mood llevamos",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "mood",
-    "f": "cómo no voy a estar en el mood?"
+    "f": "cómo no voy a estar en el mood?",
+    "canonical": "mood"
   },
   {
     "p": "Instagram",
     "a": "hater",
-    "f": "vaya hater"
+    "f": "vaya hater",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "haters",
-    "f": "comenten solo los haters!!"
+    "f": "comenten solo los haters!!",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "hater",
-    "f": "para hater ya estoy yo"
+    "f": "para hater ya estoy yo",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "haters",
-    "f": "abstenganse los haters"
+    "f": "abstenganse los haters",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "haters",
-    "f": "se aceptan haters"
+    "f": "se aceptan haters",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "haters",
-    "f": "pa tos mis haters"
+    "f": "pa tos mis haters",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "haters",
-    "f": "que rabien los haters"
+    "f": "que rabien los haters",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "haters",
-    "f": "solo hablan los haters"
+    "f": "solo hablan los haters",
+    "canonical": "hater"
   },
   {
     "p": "Instagram",
     "a": "sorry",
-    "f": "sorry, no coments"
+    "f": "sorry, no coments",
+    "canonical": "sorry"
   },
   {
     "p": "Instagram",
     "a": "sorry",
-    "f": "sorry??"
+    "f": "sorry??",
+    "canonical": "sorry"
   },
   {
     "p": "Instagram",
     "a": "sorry",
-    "f": "de verdad que sorry"
+    "f": "de verdad que sorry",
+    "canonical": "sorry"
   },
   {
     "p": "Instagram",
     "a": "post",
-    "f": "el mejor post que he visto"
+    "f": "el mejor post que he visto",
+    "canonical": "post"
   },
   {
     "p": "Instagram",
     "a": "post",
-    "f": "un post para enseñar que hago cosas y que no soy un vago"
+    "f": "un post para enseñar que hago cosas y que no soy un vago",
+    "canonical": "post"
   },
   {
     "p": "Instagram",
     "a": "post",
-    "f": "tremendo possssttt"
+    "f": "tremendo possssttt",
+    "canonical": "post"
   },
   {
     "p": "Instagram",
     "a": "posteas",
-    "f": "esto es lo que posteas siempre?"
+    "f": "esto es lo que posteas siempre?",
+    "canonical": "post"
   },
   {
     "p": "Instagram",
     "a": "postear",
-    "f": "postear no es lo tuyo eh"
+    "f": "postear no es lo tuyo eh",
+    "canonical": "post"
   },
   {
     "p": "Instagram",
     "a": "postear",
-    "f": "pero el manuel puede aprender a postear algo?"
+    "f": "pero el manuel puede aprender a postear algo?",
+    "canonical": "post"
   },
   {
     "p": "Instagram",
     "a": "pusi",
-    "f": "mi pusi que guapa"
+    "f": "mi pusi que guapa",
+    "canonical": "pusi"
   },
   {
     "p": "Instagram",
     "a": "pusi",
-    "f": "pusi que guapaaa"
+    "f": "pusi que guapaaa",
+    "canonical": "pusi"
   },
   {
     "p": "Instagram",
     "a": "pusei",
-    "f": "mi puseiiiii"
+    "f": "mi puseiiiii",
+    "canonical": "pusi"
   },
   {
     "p": "Instagram",
     "a": "pussy",
-    "f": "que guapa pussy"
+    "f": "que guapa pussy",
+    "canonical": "pusi"
   },
   {
     "p": "Instagram",
     "a": "pussy",
-    "f": "mi pussy"
+    "f": "mi pussy",
+    "canonical": "pusi"
   },
   {
     "p": "Instagram",
     "a": "pussy",
-    "f": "que guapa estás mi pussy"
+    "f": "que guapa estás mi pussy",
+    "canonical": "pusi"
   },
   {
     "p": "Instagram",
     "a": "follow",
-    "f": "dame follow que necesito más seguidores"
+    "f": "dame follow que necesito más seguidores",
+    "canonical": "follow"
   },
   {
     "p": "Instagram",
     "a": "follow",
-    "f": "como le des follow te mato"
+    "f": "como le des follow te mato",
+    "canonical": "follow"
   },
   {
     "p": "Instagram",
     "a": "follow",
-    "f": "has visto este follow?"
+    "f": "has visto este follow?",
+    "canonical": "follow"
   },
   {
     "p": "Instagram",
     "a": "gamer",
-    "f": "su novio es gamer"
+    "f": "su novio es gamer",
+    "canonical": "gamer"
   },
   {
     "p": "Instagram",
     "a": "gamer",
-    "f": "gamer proooo"
+    "f": "gamer proooo",
+    "canonical": "gamer"
   },
   {
     "p": "Instagram",
     "a": "gamers",
-    "f": "odio  los gamers"
+    "f": "odio  los gamers",
+    "canonical": "gamer"
   },
   {
     "p": "Instagram",
     "a": "stalkear",
-    "f": "me encanta stalkear tia"
+    "f": "me encanta stalkear tia",
+    "canonical": "stalkear"
   },
   {
     "p": "Instagram",
     "a": "stalkeado",
-    "f": "la he stalkeado como vamos"
+    "f": "la he stalkeado como vamos",
+    "canonical": "stalkear"
   },
   {
     "p": "Instagram",
     "a": "stalkeado",
-    "f": "tú crees que se nota mucho que la he stalkeado?"
+    "f": "tú crees que se nota mucho que la he stalkeado?",
+    "canonical": "stalkear"
   },
   {
     "p": "Instagram",
     "a": "stalkeando",
-    "f": "la estoy stalkeando espera"
+    "f": "la estoy stalkeando espera",
+    "canonical": "stalkear"
   },
   {
     "p": "Instagram",
     "a": "stalkeas",
-    "f": "si la stalkeas lo ves"
+    "f": "si la stalkeas lo ves",
+    "canonical": "stalkear"
   },
   {
     "p": "Instagram",
     "a": "stalkeándolos",
-    "f": "llevo stalkeándolos meses"
+    "f": "llevo stalkeándolos meses",
+    "canonical": "stalkear"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "mi top 10 pueblos de Extremadura"
+    "f": "mi top 10 pueblos de Extremadura",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "muy  top"
+    "f": "muy  top",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "eres muy top"
+    "f": "eres muy top",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "qué top"
+    "f": "qué top",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "toptoptop"
+    "f": "toptoptop",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "muyyyy toppp"
+    "f": "muyyyy toppp",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "qué topppp"
+    "f": "qué topppp",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "super top"
+    "f": "super top",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "toooop"
+    "f": "toooop",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "top  "
+    "f": "top  ",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "muy top shei"
+    "f": "muy top shei",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "top hermana"
+    "f": "top hermana",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "top",
-    "f": "muy muy top"
+    "f": "muy muy top",
+    "canonical": "top"
   },
   {
     "p": "Instagram",
     "a": "pov",
-    "f": "pov no sabes quien es"
+    "f": "pov no sabes quien es",
+    "canonical": "pov"
   },
   {
     "p": "Instagram",
     "a": "pov",
-    "f": "pov mi amiga sin luces"
+    "f": "pov mi amiga sin luces",
+    "canonical": "pov"
   },
   {
     "p": "Instagram",
     "a": "pov",
-    "f": "pov no tenemos fotos"
+    "f": "pov no tenemos fotos",
+    "canonical": "pov"
   },
   {
     "p": "Instagram",
     "a": "pov",
-    "f": "pov me odias"
+    "f": "pov me odias",
+    "canonical": "pov"
   },
   {
     "p": "Instagram",
     "a": "pov",
-    "f": "pov casi me mato"
+    "f": "pov casi me mato",
+    "canonical": "pov"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "que super coach tengo"
+    "f": "que super coach tengo",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "la mejor coach"
+    "f": "la mejor coach",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "el mejor coach"
+    "f": "el mejor coach",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "eeseeee coachhh"
+    "f": "eeseeee coachhh",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "claro que si coachhh"
+    "f": "claro que si coachhh",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "dios vaya coach"
+    "f": "dios vaya coach",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "el mejor coach sin lugar a dudas, suerte allí donde vayas"
+    "f": "el mejor coach sin lugar a dudas, suerte allí donde vayas",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "mi coach siempreeee"
+    "f": "mi coach siempreeee",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "la mejor coach"
+    "f": "la mejor coach",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "grande coach"
+    "f": "grande coach",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "siempre coach"
+    "f": "siempre coach",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "la pelota nunca miente coach…"
+    "f": "la pelota nunca miente coach…",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "coach",
-    "f": "siempre a tu lado coach"
+    "f": "siempre a tu lado coach",
+    "canonical": "coach"
   },
   {
     "p": "Instagram",
     "a": "hello",
-    "f": "heeeeellooo 2026"
+    "f": "heeeeellooo 2026",
+    "canonical": "hello"
   },
   {
     "p": "Instagram",
     "a": "hello",
-    "f": "hello girls"
+    "f": "hello girls",
+    "canonical": "hello"
   },
   {
     "p": "Instagram",
     "a": "hello",
-    "f": "hello summer"
+    "f": "hello summer",
+    "canonical": "hello"
   },
   {
     "p": "Instagram",
     "a": "helou",
-    "f": "helouuu, me paso por aquí para dejaros mi cógido de descuento"
+    "f": "helouuu, me paso por aquí para dejaros mi cógido de descuento",
+    "canonical": "hello"
   },
   {
     "p": "Instagram",
     "a": "hellou",
-    "f": "heelloouu, habéis visto a este chico tan guapo?"
+    "f": "heelloouu, habéis visto a este chico tan guapo?",
+    "canonical": "hello"
   },
   {
     "p": "Instagram",
     "a": "fav",
-    "f": "fav jeans"
+    "f": "fav jeans",
+    "canonical": "fav"
   },
   {
     "p": "Instagram",
     "a": "fav",
-    "f": "este es mi fav chicas"
+    "f": "este es mi fav chicas",
+    "canonical": "fav"
   },
   {
     "p": "Instagram",
     "a": "fav",
-    "f": "mi fav para el calor"
+    "f": "mi fav para el calor",
+    "canonical": "fav"
   },
   {
     "p": "Instagram",
     "a": "fav",
-    "f": "fav jeans now"
+    "f": "fav jeans now",
+    "canonical": "fav"
   },
   {
     "p": "Instagram",
     "a": "in love",
-    "f": "sooo in love con este vestido"
+    "f": "sooo in love con este vestido",
+    "canonical": "in love"
   },
   {
     "p": "Instagram",
     "a": "in love",
-    "f": "in love con estas chicas"
+    "f": "in love con estas chicas",
+    "canonical": "in love"
   },
   {
     "p": "Instagram",
     "a": "in love",
-    "f": "in love, ole ole"
+    "f": "in love, ole ole",
+    "canonical": "in love"
   },
   {
     "p": "Instagram",
     "a": "in love",
-    "f": "in love siempre"
+    "f": "in love siempre",
+    "canonical": "in love"
   },
   {
     "p": "Instagram",
     "a": "art",
-    "f": "art & relax"
+    "f": "art & relax",
+    "canonical": "art"
   },
   {
     "p": "Instagram",
     "a": "art",
-    "f": "art of painting"
+    "f": "art of painting",
+    "canonical": "art"
   },
   {
     "p": "Instagram",
     "a": "art",
-    "f": "#art"
+    "f": "#art",
+    "canonical": "art"
   },
   {
     "p": "Instagram",
     "a": "art",
-    "f": "#artclasses"
+    "f": "#artclasses",
+    "canonical": "art"
   },
   {
     "p": "Instagram",
     "a": "watercolor",
-    "f": "#watercolor"
+    "f": "#watercolor",
+    "canonical": "watercolor"
   },
   {
     "p": "Instagram",
     "a": "watercolor",
-    "f": "#watercolor"
+    "f": "#watercolor",
+    "canonical": "watercolor"
   },
   {
     "p": "Instagram",
     "a": "watercolor",
-    "f": "#watercolor"
+    "f": "#watercolor",
+    "canonical": "watercolor"
   },
   {
     "p": "Instagram",
     "a": "challenge",
-    "f": "bienvenidos al challenge de hoy"
+    "f": "bienvenidos al challenge de hoy",
+    "canonical": "challenge"
   },
   {
     "p": "Instagram",
     "a": "challenge",
-    "f": "#challenge"
+    "f": "#challenge",
+    "canonical": "challenge"
   },
   {
     "p": "Instagram",
     "a": "challenge",
-    "f": "sketching challenge"
+    "f": "sketching challenge",
+    "canonical": "challenge"
   },
   {
     "p": "Instagram",
     "a": "challenge",
-    "f": "el challenge de hoy"
+    "f": "el challenge de hoy",
+    "canonical": "challenge"
   },
   {
     "p": "Instagram",
     "a": "challenge",
-    "f": "he visto muchos challenge de esto, pero ninguno como el tuyo"
+    "f": "he visto muchos challenge de esto, pero ninguno como el tuyo",
+    "canonical": "challenge"
   },
   {
     "p": "Instagram",
     "a": "challenge",
-    "f": "vaya challenge de mierda"
+    "f": "vaya challenge de mierda",
+    "canonical": "challenge"
   },
   {
     "p": "Instagram",
     "a": "challenge",
-    "f": "esto se supone que es un challenge?"
-  },
-  {
-    "p": "Instagram",
-    "a": "challenge",
-    "f": "el challenge de la canela molaba más"
+    "f": "esto se supone que es un challenge?",
+    "canonical": "challenge"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "me encanta, es super aesthetic"
+    "f": "me encanta, es super aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "es muy aesthetic"
+    "f": "es muy aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "alaaa que habitación más aesthetic"
+    "f": "alaaa que habitación más aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "no es tan aesthetic como yo creía"
+    "f": "no es tan aesthetic como yo creía",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "diía 1 haciendo fotos aesthetics"
+    "f": "diía 1 haciendo fotos aesthetics",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "esta chica es tan aesthetic"
+    "f": "esta chica es tan aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "demasiado aesthetic por tu parte"
+    "f": "demasiado aesthetic por tu parte",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "aaaamoooo que aesthetic"
+    "f": "aaaamoooo que aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "rare aesthetic: se quedan las llaves dentro de casa"
+    "f": "rare aesthetic: se quedan las llaves dentro de casa",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "aesthetic",
-    "f": "intentas hacer un video aesthetic"
+    "f": "intentas hacer un video aesthetic",
+    "canonical": "aesthetic"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "bro y el queso?"
+    "f": "bro y el queso?",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "brooo six seven"
+    "f": "brooo six seven",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "bro tenemos que ir"
+    "f": "bro tenemos que ir",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "bro nos vamos?"
+    "f": "bro nos vamos?",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "te lo juro bro, era la persona más rara del mundo"
+    "f": "te lo juro bro, era la persona más rara del mundo",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "bro cómo puede ganar tanto dinero con eso"
+    "f": "bro cómo puede ganar tanto dinero con eso",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "broooo"
+    "f": "broooo",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "acho bro no me jodas"
+    "f": "acho bro no me jodas",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "bro enserio?"
+    "f": "bro enserio?",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "bro",
-    "f": "broder parate ya "
-  },
-  {
-    "p": "TikTok",
-    "a": "challenge",
-    "f": "hacemos ese challenge?"
-  },
-  {
-    "p": "TikTok",
-    "a": "challenge",
-    "f": "me ha mandado Clara el challenge, no lo pienso hacer"
-  },
-  {
-    "p": "TikTok",
-    "a": "challenge",
-    "f": "acho habeis visto este challenge?"
-  },
-  {
-    "p": "TikTok",
-    "a": "challenge",
-    "f": "#challenge"
+    "f": "broder parate ya ",
+    "canonical": "bro"
   },
   {
     "p": "TikTok",
     "a": "challenge",
-    "f": "challenge dia 2"
+    "f": "hacemos ese challenge?",
+    "canonical": "challenge"
   },
   {
     "p": "TikTok",
     "a": "challenge",
-    "f": "Te huelen los pies a queso challenge"
+    "f": "me ha mandado Clara el challenge, no lo pienso hacer",
+    "canonical": "challenge"
   },
   {
     "p": "TikTok",
     "a": "challenge",
-    "f": "no me gusta este challenge"
+    "f": "acho habeis visto este challenge?",
+    "canonical": "challenge"
   },
   {
     "p": "TikTok",
     "a": "challenge",
-    "f": "eres muy FEO challenge"
+    "f": "#challenge",
+    "canonical": "challenge"
+  },
+  {
+    "p": "TikTok",
+    "a": "challenge",
+    "f": "challenge dia 2",
+    "canonical": "challenge"
+  },
+  {
+    "p": "TikTok",
+    "a": "challenge",
+    "f": "Te huelen los pies a queso challenge",
+    "canonical": "challenge"
+  },
+  {
+    "p": "TikTok",
+    "a": "challenge",
+    "f": "no me gusta este challenge",
+    "canonical": "challenge"
+  },
+  {
+    "p": "TikTok",
+    "a": "challenge",
+    "f": "eres muy FEO challenge",
+    "canonical": "challenge"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "oooooo my coach"
+    "f": "oooooo my coach",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "mi coach favorita"
+    "f": "mi coach favorita",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "este es mi coachhh"
+    "f": "este es mi coachhh",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "búscate un coach de verdad tio"
+    "f": "búscate un coach de verdad tio",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "vas de coach y no eres nadie"
+    "f": "vas de coach y no eres nadie",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "hoy, en busca de un coach…"
+    "f": "hoy, en busca de un coach…",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "el coach del Cáceres es una mierda"
+    "f": "el coach del Cáceres es una mierda",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "coach",
-    "f": "cualquiera se llama coach ahora mismo, no hay filtro ninguno"
+    "f": "cualquiera se llama coach ahora mismo, no hay filtro ninguno",
+    "canonical": "coach"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "top 9 titulares de Terelu Campos"
+    "f": "top 9 titulares de Terelu Campos",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "es el peor top de la historia"
+    "f": "es el peor top de la historia",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "top 1939"
+    "f": "top 1939",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "me parece criminal que el lomo no sea top 1"
+    "f": "me parece criminal que el lomo no sea top 1",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "mi top 10 enbalses de Extremadura"
+    "f": "mi top 10 enbalses de Extremadura",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "mi top de comarcas de Extremadura"
+    "f": "mi top de comarcas de Extremadura",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "top 1 cosas que odio"
+    "f": "top 1 cosas que odio",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "que toppp"
+    "f": "que toppp",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "top",
-    "f": "muy top"
+    "f": "muy top",
+    "canonical": "top"
   },
   {
     "p": "TikTok",
     "a": "performance",
-    "f": "vamos a repasar las performances"
+    "f": "vamos a repasar las performances",
+    "canonical": "performance"
   },
   {
     "p": "TikTok",
     "a": "cringe",
-    "f": "por favor, vaya baile, que puto cringe"
+    "f": "por favor, vaya baile, que puto cringe",
+    "canonical": "cringe"
   },
   {
     "p": "TikTok",
     "a": "cringe",
-    "f": "pero como pude subir eso? Que crige tia"
+    "f": "pero como pude subir eso? Que crige tia",
+    "canonical": "cringe"
   },
   {
     "p": "TikTok",
     "a": "cringe",
-    "f": "no puedo, es demasiado cringe para mí"
+    "f": "no puedo, es demasiado cringe para mí",
+    "canonical": "cringe"
   },
   {
     "p": "TikTok",
     "a": "cringe",
-    "f": "que cringe"
+    "f": "que cringe",
+    "canonical": "cringe"
   },
   {
     "p": "TikTok",
     "a": "cringe",
-    "f": "acho tia como va a subir eso? Que puto cringe"
+    "f": "acho tia como va a subir eso? Que puto cringe",
+    "canonical": "cringe"
   },
   {
     "p": "TikTok",
     "a": "cringe",
-    "f": "el cringe de mi vida"
+    "f": "el cringe de mi vida",
+    "canonical": "cringe"
   },
   {
     "p": "TikTok",
     "a": "unboxing",
-    "f": "unboxing de mi muñeca de feria"
+    "f": "unboxing de mi muñeca de feria",
+    "canonical": "unboxing"
   },
   {
     "p": "TikTok",
     "a": "unboxing",
-    "f": "unboxing Kobe 6 Total Orange"
+    "f": "unboxing Kobe 6 Total Orange",
+    "canonical": "unboxing"
   },
   {
     "p": "TikTok",
     "a": "unboxing",
-    "f": "se te complica el unboxing "
+    "f": "se te complica el unboxing ",
+    "canonical": "unboxing"
   },
   {
     "p": "TikTok",
     "a": "unboxing",
-    "f": "unboxing de mi compra de hoy"
+    "f": "unboxing de mi compra de hoy",
+    "canonical": "unboxing"
   },
   {
     "p": "TikTok",
     "a": "wrapped",
-    "f": "mi wrapped de miserias de este año"
+    "f": "mi wrapped de miserias de este año",
+    "canonical": "wrapped"
   },
   {
     "p": "TikTok",
     "a": "wrapped",
-    "f": "mi wrapped de transportes de este año"
+    "f": "mi wrapped de transportes de este año",
+    "canonical": "wrapped"
   },
   {
     "p": "TikTok",
     "a": "storytime",
-    "f": "storytime"
+    "f": "storytime",
+    "canonical": "storytime"
   },
   {
     "p": "TikTok",
     "a": "storytime",
-    "f": "storytime de un jueves santo con desconocidos "
+    "f": "storytime de un jueves santo con desconocidos ",
+    "canonical": "storytime"
   },
   {
     "p": "TikTok",
     "a": "storytime",
-    "f": "storytime de adolescentes en terapia"
+    "f": "storytime de adolescentes en terapia",
+    "canonical": "storytime"
   },
   {
     "p": "TikTok",
     "a": "fake",
-    "f": "esto es fake seguro"
+    "f": "esto es fake seguro",
+    "canonical": "fake"
   },
   {
     "p": "TikTok",
     "a": "fake",
-    "f": "real o fake?"
+    "f": "real o fake?",
+    "canonical": "fake"
   },
   {
     "p": "TikTok",
     "a": "fake",
-    "f": "fake news"
+    "f": "fake news",
+    "canonical": "fake"
   },
   {
     "p": "TikTok",
     "a": "fake",
-    "f": "es de fake Tiktok no me lo borres jajaj"
+    "f": "es de fake Tiktok no me lo borres jajaj",
+    "canonical": "fake"
   },
   {
     "p": "TikTok",
     "a": "skincare",
-    "f": "preparo un plan de skincare para mi amiga"
+    "f": "preparo un plan de skincare para mi amiga",
+    "canonical": "skincare"
   },
   {
     "p": "TikTok",
     "a": "skincare",
-    "f": "se ha cinvertido en mi paso favorito del skincare"
+    "f": "se ha cinvertido en mi paso favorito del skincare",
+    "canonical": "skincare"
   },
   {
     "p": "TikTok",
     "a": "skincare",
-    "f": "pásate rutina de skincare"
+    "f": "pásate rutina de skincare",
+    "canonical": "skincare"
   },
   {
     "p": "TikTok",
     "a": "haul",
-    "f": "haul del mercadillo"
+    "f": "haul del mercadillo",
+    "canonical": "haul"
   },
   {
     "p": "TikTok",
     "a": "selfie",
-    "f": "nuestro viaje en selfies"
+    "f": "nuestro viaje en selfies",
+    "canonical": "selfie"
   },
   {
     "p": "TikTok",
     "a": "girl math",
-    "f": "he ganado 150 euros y la limpieza me ha salido GRATIS"
+    "f": "he ganado 150 euros y la limpieza me ha salido GRATIS",
+    "canonical": "girl math"
   },
   {
     "p": "TikTok",
     "a": "makeup",
-    "f": "makeup foto DNI"
+    "f": "makeup foto DNI",
+    "canonical": "makeup"
   },
   {
     "p": "TikTok",
     "a": "makeup",
-    "f": "último makeup para coachella"
+    "f": "último makeup para coachella",
+    "canonical": "makeup"
   },
   {
     "p": "TikTok",
     "a": "makeup",
-    "f": "pelo y makeup día 3"
+    "f": "pelo y makeup día 3",
+    "canonical": "makeup"
   },
   {
     "p": "TikTok",
     "a": "makeup",
-    "f": "¿qué makeup llevar en tu maleta?"
+    "f": "¿qué makeup llevar en tu maleta?",
+    "canonical": "makeup"
   },
   {
     "p": "TikTok",
     "a": "fomo",
-    "f": "0 fomo la verdad"
+    "f": "0 fomo la verdad",
+    "canonical": "fomo"
   },
   {
     "p": "TikTok",
     "a": "fomo",
-    "f": "el fomo es real hermana"
+    "f": "el fomo es real hermana",
+    "canonical": "fomo"
   },
   {
     "p": "TikTok",
     "a": "fomo",
-    "f": "QUÉ FOMO"
+    "f": "QUÉ FOMO",
+    "canonical": "fomo"
   },
   {
     "p": "TikTok",
     "a": "fomo",
-    "f": "yo quiero irr, que fomoooo"
+    "f": "yo quiero irr, que fomoooo",
+    "canonical": "fomo"
   },
   {
     "p": "TikTok",
     "a": "fomo",
-    "f": "en serio que fomo"
+    "f": "en serio que fomo",
+    "canonical": "fomo"
   },
   {
     "p": "TikTok",
     "a": "fomo",
-    "f": "fomo máximo no haber estado ahí"
+    "f": "fomo máximo no haber estado ahí",
+    "canonical": "fomo"
   },
   {
     "p": "TikTok",
     "a": "clean girl",
-    "f": "top razones por las que nunca seré una clean girl"
+    "f": "top razones por las que nunca seré una clean girl",
+    "canonical": "clean girl"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "outfit que no puedo esperar para volver a ponérmelo"
+    "f": "outfit que no puedo esperar para volver a ponérmelo",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "outfit último día de coachella"
+    "f": "outfit último día de coachella",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "criticando mis outfits de Coachella"
+    "f": "criticando mis outfits de Coachella",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "el outfit final aquiii"
+    "f": "el outfit final aquiii",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "outfits que no puedo esperar a ponerme"
+    "f": "outfits que no puedo esperar a ponerme",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "outfit check"
+    "f": "outfit check",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "pf, no me gusta nada su outfit"
+    "f": "pf, no me gusta nada su outfit",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "outfit diferentes para la feria"
+    "f": "outfit diferentes para la feria",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "outfit",
-    "f": "#3outfit"
+    "f": "#3outfit",
+    "canonical": "outfit"
   },
   {
     "p": "TikTok",
     "a": "look",
-    "f": "look Coachella día 2"
+    "f": "look Coachella día 2",
+    "canonical": "look"
   },
   {
     "p": "TikTok",
     "a": "look",
-    "f": "look Coachella día 1"
+    "f": "look Coachella día 1",
+    "canonical": "look"
   },
   {
     "p": "TikTok",
     "a": "look",
-    "f": "vas a conseguir el mejor look con estos tonos"
+    "f": "vas a conseguir el mejor look con estos tonos",
+    "canonical": "look"
   },
   {
     "p": "TikTok",
     "a": "look",
-    "f": "nuevo look"
+    "f": "nuevo look",
+    "canonical": "look"
   },
   {
     "p": "TikTok",
     "a": "look",
-    "f": "a mi novia le encantó mi nuevo look…"
+    "f": "a mi novia le encantó mi nuevo look…",
+    "canonical": "look"
   },
   {
     "p": "TikTok",
     "a": "look",
-    "f": "cambio de look para la feria"
+    "f": "cambio de look para la feria",
+    "canonical": "look"
   },
   {
     "p": "TikTok",
     "a": "look",
-    "f": "así es el nuevo look de mi novio"
+    "f": "así es el nuevo look de mi novio",
+    "canonical": "look"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "es un hater, siempre critica todo lo que hacemos"
+    "f": "es un hater, siempre critica todo lo que hacemos",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "somos las mas hateadas JAJAJJJA"
+    "f": "somos las mas hateadas JAJAJJJA",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "el hate que le está cayendo no es ni medio normal"
+    "f": "el hate que le está cayendo no es ni medio normal",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "que baien los haters, me la pela"
+    "f": "que baien los haters, me la pela",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "llegó a famoso gracias a sus haters, qué paradoja"
+    "f": "llegó a famoso gracias a sus haters, qué paradoja",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "para todos mis haters"
+    "f": "para todos mis haters",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "que superen ya el hate"
+    "f": "que superen ya el hate",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hater",
-    "f": "a ver si aprendes a vivir de otra cosa que no sea del hate"
+    "f": "a ver si aprendes a vivir de otra cosa que no sea del hate",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "haters",
-    "f": "leyendo comentarios falsos de haters"
+    "f": "leyendo comentarios falsos de haters",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hate",
-    "f": "leemos comentarios de hate en el directo"
+    "f": "leemos comentarios de hate en el directo",
+    "canonical": "hater"
   },
   {
     "p": "TikTok",
     "a": "hipe",
-    "f": "hasta que nos quedemos sin estrellas, demasiado hipe tiene"
+    "f": "hasta que nos quedemos sin estrellas, demasiado hipe tiene",
+    "canonical": "hype"
   },
   {
     "p": "TikTok",
     "a": "hype",
-    "f": "el cocierto estaba muy hypeado"
+    "f": "el cocierto estaba muy hypeado",
+    "canonical": "hype"
   },
   {
     "p": "TikTok",
     "a": "hype",
-    "f": "tengo un hype por el conciertoooo"
+    "f": "tengo un hype por el conciertoooo",
+    "canonical": "hype"
   },
   {
     "p": "TikTok",
     "a": "hype",
-    "f": "este hype es insoportable, seguro que es una mierda"
+    "f": "este hype es insoportable, seguro que es una mierda",
+    "canonical": "hype"
   },
   {
     "p": "TikTok",
     "a": "hype",
-    "f": "tanto hipe pa que"
+    "f": "tanto hipe pa que",
+    "canonical": "hype"
   },
   {
     "p": "TikTok",
     "a": "hype",
-    "f": "le duró dos días el hype"
+    "f": "le duró dos días el hype",
+    "canonical": "hype"
   },
   {
     "p": "TikTok",
     "a": "prime",
-    "f": "estás en tu prime hermana"
+    "f": "estás en tu prime hermana",
+    "canonical": "prime"
   },
   {
     "p": "TikTok",
     "a": "prime",
-    "f": "prime absoluto"
+    "f": "prime absoluto",
+    "canonical": "prime"
   },
   {
     "p": "TikTok",
     "a": "prime",
-    "f": "menos mal que me conoció en mi época prime"
+    "f": "menos mal que me conoció en mi época prime",
+    "canonical": "prime"
   },
   {
     "p": "TikTok",
     "a": "prime",
-    "f": "se viene mi prime universitario chavales"
+    "f": "se viene mi prime universitario chavales",
+    "canonical": "prime"
   },
   {
     "p": "TikTok",
     "a": "prime",
-    "f": "estoy en mi putisimo prime"
+    "f": "estoy en mi putisimo prime",
+    "canonical": "prime"
   },
   {
     "p": "TikTok",
     "a": "prime",
-    "f": "se viene prime académico"
+    "f": "se viene prime académico",
+    "canonical": "prime"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "así es la competitividad entre influencers"
+    "f": "así es la competitividad entre influencers",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "tengo una novia influencer y te voy a dar 3 consejos que debes seguir"
+    "f": "tengo una novia influencer y te voy a dar 3 consejos que debes seguir",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "¿queréis que os presente a una influencer?"
+    "f": "¿queréis que os presente a una influencer?",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "ese influencer cobra más que mi padre y tiene dieciséis años"
+    "f": "ese influencer cobra más que mi padre y tiene dieciséis años",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "no me fio de ningún influencer"
+    "f": "no me fio de ningún influencer",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "y esta que va de influencer ahora?"
+    "f": "y esta que va de influencer ahora?",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "tremenda influ si"
+    "f": "tremenda influ si",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "ojalá más influencer como tuuuu"
+    "f": "ojalá más influencer como tuuuu",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "influencer",
-    "f": "influencer de qué"
+    "f": "influencer de qué",
+    "canonical": "influencer"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "ellas no querían ni likes ni follows"
+    "f": "ellas no querían ni likes ni follows",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "darle likeee"
+    "f": "darle likeee",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "like y comparte porfaaa"
+    "f": "like y comparte porfaaa",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "darle like que os encantan los vídeos pero no le dais jajja"
+    "f": "darle like que os encantan los vídeos pero no le dais jajja",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "me ha dado like que hago"
+    "f": "me ha dado like que hago",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "like por la musica"
+    "f": "like por la musica",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "se le ha escapado un like "
+    "f": "se le ha escapado un like ",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "like always"
+    "f": "like always",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "likeeee ittt"
+    "f": "likeeee ittt",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "#dalelike"
+    "f": "#dalelike",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "like",
-    "f": "ese like a las tres de la mañana fue un mensaje muy claro"
+    "f": "ese like a las tres de la mañana fue un mensaje muy claro",
+    "canonical": "like"
   },
   {
     "p": "TikTok",
     "a": "mood",
-    "f": "mi mood depende de mi batería social"
+    "f": "mi mood depende de mi batería social",
+    "canonical": "mood"
   },
   {
     "p": "TikTok",
     "a": "mood",
-    "f": "¿Cuándo os vestís de refajo? Quiero vivir en ese mood"
+    "f": "¿Cuándo os vestís de refajo? Quiero vivir en ese mood",
+    "canonical": "mood"
   },
   {
     "p": "TikTok",
     "a": "mood",
-    "f": "summer mood"
+    "f": "summer mood",
+    "canonical": "mood"
   },
   {
     "p": "TikTok",
     "a": "mood",
-    "f": "sabes eso de cuando estas en el mood?"
+    "f": "sabes eso de cuando estas en el mood?",
+    "canonical": "mood"
   },
   {
     "p": "TikTok",
     "a": "mood",
-    "f": "mood de verano yaaaa"
+    "f": "mood de verano yaaaa",
+    "canonical": "mood"
   },
   {
     "p": "TikTok",
     "a": "GURWU",
-    "f": "Get unready with us"
+    "f": "Get unready with us",
+    "canonical": "grwm"
   },
   {
     "p": "TikTok",
     "a": "GRWM",
-    "f": "GRWM como psicólogo"
+    "f": "GRWM como psicólogo",
+    "canonical": "grwm"
   },
   {
     "p": "TikTok",
     "a": "GRWM",
-    "f": "GRWM para entrar en la casita (manifestando)"
+    "f": "GRWM para entrar en la casita (manifestando)",
+    "canonical": "grwm"
   },
   {
     "p": "TikTok",
     "a": "GRWM",
-    "f": "GRWM para presentar un evento en Extremadura"
+    "f": "GRWM para presentar un evento en Extremadura",
+    "canonical": "grwm"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "vamos a hacer red flags en los hombres"
+    "f": "vamos a hacer red flags en los hombres",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "ahora toca red flags en los hombres"
+    "f": "ahora toca red flags en los hombres",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "hermana no sé cómo no viste las red flags"
+    "f": "hermana no sé cómo no viste las red flags",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "red flags de los canis "
+    "f": "red flags de los canis ",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "para ti eso es una red flag?"
+    "f": "para ti eso es una red flag?",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "red flag total"
+    "f": "red flag total",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "levanta un dedo si crees que es una red flag"
+    "f": "levanta un dedo si crees que es una red flag",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "red flag",
-    "f": "que no veas las red flags me parece loco"
+    "f": "que no veas las red flags me parece loco",
+    "canonical": "red flag"
   },
   {
     "p": "TikTok",
     "a": "green flag",
-    "f": "no tiene una green flag"
+    "f": "no tiene una green flag",
+    "canonical": "green flag"
   },
   {
     "p": "TikTok",
     "a": "green flag",
-    "f": "solo tiene green flags tia "
+    "f": "solo tiene green flags tia ",
+    "canonical": "green flag"
   },
   {
     "p": "TikTok",
     "a": "green flag",
-    "f": "vamos a hacer green flags en los hombres"
+    "f": "vamos a hacer green flags en los hombres",
+    "canonical": "green flag"
   },
   {
     "p": "TikTok",
     "a": "unpopular opinion",
-    "f": "unpopular opinion: si no escuchas a Melendi no eres de fiar"
+    "f": "unpopular opinion: si no escuchas a Melendi no eres de fiar",
+    "canonical": "unpopular opinion"
   },
   {
     "p": "TikTok",
     "a": "unpopular opinion",
-    "f": "unpopular opinion: las croquetas están sobrevaloradas"
+    "f": "unpopular opinion: las croquetas están sobrevaloradas",
+    "canonical": "unpopular opinion"
   },
   {
     "p": "TikTok",
     "a": "unpopular opinion",
-    "f": "unpopular opinion: odio la feria"
+    "f": "unpopular opinion: odio la feria",
+    "canonical": "unpopular opinion"
   },
   {
     "p": "TikTok",
     "a": "unpopular opinion",
-    "f": "unpopular opinion: cáceres mejor que madrid"
+    "f": "unpopular opinion: cáceres mejor que madrid",
+    "canonical": "unpopular opinion"
   },
   {
     "p": "TikTok",
     "a": "love language",
-    "f": "mi love language es meterme con mi novia"
+    "f": "mi love language es meterme con mi novia",
+    "canonical": "love language"
   },
   {
     "p": "TikTok",
     "a": "love language",
-    "f": "nuestro love language"
+    "f": "nuestro love language",
+    "canonical": "love language"
   },
   {
     "p": "TikTok",
     "a": "love language",
-    "f": "mi love language es el contacto físico"
+    "f": "mi love language es el contacto físico",
+    "canonical": "love language"
   },
   {
     "p": "TikTok",
     "a": "love language",
-    "f": "love language"
+    "f": "love language",
+    "canonical": "love language"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "Spoiler: necesito una cafetera nueva"
+    "f": "Spoiler: necesito una cafetera nueva",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "aviso: spoiler del capítulo seis en este vídeo"
+    "f": "aviso: spoiler del capítulo seis en este vídeo",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "me hicieron spoiler de la película antes de entrar a verla"
+    "f": "me hicieron spoiler de la película antes de entrar a verla",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "spoiler: salió mal"
+    "f": "spoiler: salió mal",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "alerta spoiler"
+    "f": "alerta spoiler",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "hala, ya me comí otro spoiler"
+    "f": "hala, ya me comí otro spoiler",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "TIA QUE PARES DE HACER SPOILER"
+    "f": "TIA QUE PARES DE HACER SPOILER",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "un spoiler más y te bloqueo"
+    "f": "un spoiler más y te bloqueo",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "me comí el spoiler de mi vida"
+    "f": "me comí el spoiler de mi vida",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "spoiler",
-    "f": "spoileada histórica"
+    "f": "spoileada histórica",
+    "canonical": "spoiler"
   },
   {
     "p": "TikTok",
     "a": "six seven",
-    "f": "six seven brooo"
+    "f": "six seven brooo",
+    "canonical": "six seven"
   },
   {
     "p": "TikTok",
     "a": "six seven",
-    "f": "qué coño significa six seven"
+    "f": "qué coño significa six seven",
+    "canonical": "six seven"
   },
   {
     "p": "TikTok",
     "a": "six seven",
-    "f": "six seven chicassss"
+    "f": "six seven chicassss",
+    "canonical": "six seven"
   },
   {
     "p": "TikTok",
     "a": "six seven",
-    "f": "six seven, marta no lo entiendes"
+    "f": "six seven, marta no lo entiendes",
+    "canonical": "six seven"
   },
   {
     "p": "TikTok",
     "a": "six seven",
-    "f": "lo de que el papa haya hecho el six seven?"
+    "f": "lo de que el papa haya hecho el six seven?",
+    "canonical": "six seven"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "llevo stalkeándola media hpra"
+    "f": "llevo stalkeándola media hpra",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "me ha saltado que me ha stalkeado"
+    "f": "me ha saltado que me ha stalkeado",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "achooo me está stalkeando me meo"
+    "f": "achooo me está stalkeando me meo",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "tía stalkéala qué más da"
+    "f": "tía stalkéala qué más da",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "no puede stalkearme"
+    "f": "no puede stalkearme",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "si me stalkea me va a salir así q"
+    "f": "si me stalkea me va a salir así q",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "tía no le stalkees"
+    "f": "tía no le stalkees",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "es que es la mejor stalkeadora "
+    "f": "es que es la mejor stalkeadora ",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "te tienen que dar un premio de stalker"
+    "f": "te tienen que dar un premio de stalker",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "stalkear",
-    "f": "ese te ha stalkeado como vamos"
+    "f": "ese te ha stalkeado como vamos",
+    "canonical": "stalkear"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "aaaaa que crush"
+    "f": "aaaaa que crush",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "es que es mi crush desde pequeña "
+    "f": "es que es mi crush desde pequeña ",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "pero cómo no va a ser tu crush hermana?"
+    "f": "pero cómo no va a ser tu crush hermana?",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "crush 100%"
+    "f": "crush 100%",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "que ese era tu crush?"
+    "f": "que ese era tu crush?",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "no jodas que es tu crush JAJAJJA"
+    "f": "no jodas que es tu crush JAJAJJA",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "era el crush de toda mi clase"
+    "f": "era el crush de toda mi clase",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "crush",
-    "f": "sabes el típico profe crush?"
+    "f": "sabes el típico profe crush?",
+    "canonical": "crush"
   },
   {
     "p": "TikTok",
     "a": "haul",
-    "f": "try on haul"
+    "f": "try on haul",
+    "canonical": "haul"
   },
   {
     "p": "TikTok",
     "a": "haul",
-    "f": "haul de mi compra en zara"
+    "f": "haul de mi compra en zara",
+    "canonical": "haul"
   },
   {
     "p": "TikTok",
     "a": "haul",
-    "f": "queremos haul yaaaa"
+    "f": "queremos haul yaaaa",
+    "canonical": "haul"
   },
   {
     "p": "TikTok",
     "a": "haul",
-    "f": "haul de mi nuevo maquillaje "
+    "f": "haul de mi nuevo maquillaje ",
+    "canonical": "haul"
   },
   {
     "p": "TikTok",
     "a": "haul",
-    "f": "haul del mercadona"
+    "f": "haul del mercadona",
+    "canonical": "haul"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: tienes tu primer entreno con un equipo nuevo"
+    "f": "pov: tienes tu primer entreno con un equipo nuevo",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: tu amigo después de ver 2987 procesiones "
+    "f": "pov: tu amigo después de ver 2987 procesiones ",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: sales en una revista con tu novia por primera vez"
+    "f": "pov: sales en una revista con tu novia por primera vez",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: nos conocimos en el baño de la discoteca "
+    "f": "pov: nos conocimos en el baño de la discoteca ",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: no hay pov"
+    "f": "pov: no hay pov",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: yo después de que me diga por 2782 vez que recoja mi cuarto"
+    "f": "pov: yo después de que me diga por 2782 vez que recoja mi cuarto",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: pruebas a hacer hyrox por primera vez"
+    "f": "pov: pruebas a hacer hyrox por primera vez",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: día de brazo en el gimnasio"
+    "f": "pov: día de brazo en el gimnasio",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: se te complica el unboxing de la compra"
+    "f": "pov: se te complica el unboxing de la compra",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: intentas ser una adulta funcional pero la vida se te complica"
+    "f": "pov: intentas ser una adulta funcional pero la vida se te complica",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: tu amiga experta en procrastinar"
+    "f": "pov: tu amiga experta en procrastinar",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: eres millenial y estás melancólica"
+    "f": "pov: eres millenial y estás melancólica",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: vas a Roma por primera vez"
+    "f": "pov: vas a Roma por primera vez",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: decides ir a la Garganta de los Infiernos"
+    "f": "pov: decides ir a la Garganta de los Infiernos",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: le dices a tu amigo que es un pesao"
+    "f": "pov: le dices a tu amigo que es un pesao",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov:el mar te da respeto"
+    "f": "pov:el mar te da respeto",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: vas al psicólogo del barrio"
+    "f": "pov: vas al psicólogo del barrio",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "pov",
-    "f": "pov: quieres tener un detalle con tu amigo pero…"
+    "f": "pov: quieres tener un detalle con tu amigo pero…",
+    "canonical": "pov"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "quiero que hagamos este trend"
+    "f": "quiero que hagamos este trend",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "estoy hasta el pie del trend de quevedo"
+    "f": "estoy hasta el pie del trend de quevedo",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "tutorial trend \"hay un cachito de luz\""
+    "f": "tutorial trend \"hay un cachito de luz\"",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "un trend más y dejo Tiktok"
+    "f": "un trend más y dejo Tiktok",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "ayyy me encanta ese trend"
+    "f": "ayyy me encanta ese trend",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "podemos hacer este trend???"
+    "f": "podemos hacer este trend???",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "#trendviral"
+    "f": "#trendviral",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "trend",
-    "f": "#trend  "
+    "f": "#trend  ",
+    "canonical": "trend"
   },
   {
     "p": "TikTok",
     "a": "vibe",
-    "f": "tiene buenas vibes"
+    "f": "tiene buenas vibes",
+    "canonical": "vibe"
   },
   {
     "p": "TikTok",
     "a": "vibe",
-    "f": "no me da buena vibe ese tío, no sé por qué"
+    "f": "no me da buena vibe ese tío, no sé por qué",
+    "canonical": "vibe"
   },
   {
     "p": "TikTok",
     "a": "vibe",
-    "f": "transmite buenas vibes"
+    "f": "transmite buenas vibes",
+    "canonical": "vibe"
   },
   {
     "p": "TikTok",
     "a": "vibe",
-    "f": "tiene la misma vibe que tu prima jajajja"
+    "f": "tiene la misma vibe que tu prima jajajja",
+    "canonical": "vibe"
   },
   {
     "p": "TikTok",
     "a": "vibe",
-    "f": "no me gustan sus vibes "
+    "f": "no me gustan sus vibes ",
+    "canonical": "vibe"
   },
   {
     "p": "TikTok",
     "a": "vibe",
-    "f": "tiene vibes de diva, no me cae bien "
+    "f": "tiene vibes de diva, no me cae bien ",
+    "canonical": "vibe"
   },
   {
     "p": "TikTok",
     "a": "goat",
-    "f": "el real goat bro"
+    "f": "el real goat bro",
+    "canonical": "goat"
   },
   {
     "p": "TikTok",
     "a": "goat",
-    "f": "lebron es el goat"
+    "f": "lebron es el goat",
+    "canonical": "goat"
   },
   {
     "p": "TikTok",
     "a": "goat",
-    "f": "#goat"
+    "f": "#goat",
+    "canonical": "goat"
   },
   {
     "p": "TikTok",
     "a": "goat",
-    "f": "es muy goat"
+    "f": "es muy goat",
+    "canonical": "goat"
   },
   {
     "p": "TikTok",
     "a": "god",
-    "f": "es god"
+    "f": "es god",
+    "canonical": "god"
   },
   {
     "p": "TikTok",
     "a": "god",
-    "f": "eres muy god"
+    "f": "eres muy god",
+    "canonical": "god"
   },
   {
     "p": "TikTok",
     "a": "god",
-    "f": "dioooooos que goddd"
+    "f": "dioooooos que goddd",
+    "canonical": "god"
   },
   {
     "p": "TikTok",
     "a": "god",
-    "f": "god total"
+    "f": "god total",
+    "canonical": "god"
   },
   {
     "p": "TikTok",
     "a": "goal",
-    "f": "the final goal"
+    "f": "the final goal",
+    "canonical": "goal"
   },
   {
     "p": "TikTok",
     "a": "goal",
-    "f": "my goal"
+    "f": "my goal",
+    "canonical": "goal"
   },
   {
     "p": "TikTok",
     "a": "goal",
-    "f": "es muy goal por tu parte"
+    "f": "es muy goal por tu parte",
+    "canonical": "goal"
   },
   {
     "p": "TikTok",
     "a": "goal",
-    "f": "goals?"
-  },
-  {
-    "p": "TikTok",
-    "a": "goal",
-    "f": "couple goals jajaj"
+    "f": "goals?",
+    "canonical": "goal"
   }
 ]

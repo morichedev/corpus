@@ -16,9 +16,10 @@ const PALETTE = [
 ];
 
 /* ── State ──────────────────────────────────────────────────────────────────── */
-let DATA = [];
-let chartType = "bar";
+let DATA        = [];
+let chartType   = "bar";
 let chartInstance = null;
+let groupedMode = true;   // true = agrupar variantes, false = ver todas exactas
 
 /* ── Data loading ───────────────────────────────────────────────────────────── */
 async function loadData() {
@@ -30,9 +31,10 @@ async function loadData() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const raw = await res.json();
     DATA = raw.map((r) => ({
-      p: r.p,
-      a: r.a.toLowerCase().trim(),
-      f: r.f,
+      p:         r.p,
+      a:         r.a.toLowerCase().trim(),
+      canonical: (r.canonical || r.a).toLowerCase().trim(),
+      f:         r.f,
     }));
     initUI();
     renderChart();
@@ -41,36 +43,69 @@ async function loadData() {
   }
 }
 
+/* ── Helpers ────────────────────────────────────────────────────────────────── */
+
+/** Devuelve la clave de agrupación según el modo actual */
+function getKey(r) {
+  return groupedMode ? r.canonical : r.a;
+}
+
+/** Todas las entradas filtradas por plataforma */
+function filterByPlatform(platform) {
+  return platform ? DATA.filter((r) => r.p === platform) : DATA;
+}
+
+/** Conteo de ocurrencias por clave de agrupación */
+function countByKey(rows) {
+  const counts = {};
+  rows.forEach((r) => {
+    const k = getKey(r);
+    counts[k] = (counts[k] || 0) + 1;
+  });
+  return counts;
+}
+
 /* ── UI initialisation ──────────────────────────────────────────────────────── */
 function initUI() {
-  // Build anglicismo index
-  const angCount = {};
-  DATA.forEach((r) => { angCount[r.a] = (angCount[r.a] || 0) + 1; });
+  populateAnglicismSelect();
+  updateHeaderPills();
+}
 
-  const allAngs = Object.entries(angCount)
-    .sort((a, b) => b[1] - a[1])
-    .map((e) => e[0]);
+function updateHeaderPills() {
+  const rows       = filterByPlatform(document.getElementById("platformFilter").value);
+  const counts     = countByKey(rows);
+  const uniqueKeys = Object.keys(counts).length;
+  const total      = DATA.length;
 
-  // Populate dropdown
-  const angSelect = document.getElementById("anglicismFilter");
-  angSelect.innerHTML = '<option value="">Ver ranking general</option>';
-  allAngs.forEach((ang) => {
-    const opt = document.createElement("option");
-    opt.value = ang;
-    opt.textContent = `${ang} (${angCount[ang]})`;
-    angSelect.appendChild(opt);
-  });
-
-  // Update header pills with real counts
-  const uniqueCount = allAngs.length;
-  const totalCount = DATA.length;
   document.querySelectorAll(".pill").forEach((pill) => {
     const span = pill.querySelector("span");
     if (!span) return;
     const text = pill.textContent.trim();
-    if (text.includes("ocurrencias")) span.textContent = totalCount;
-    if (text.includes("únicos"))      span.textContent = uniqueCount;
+    if (text.includes("ocurrencias"))     span.textContent = total;
+    if (text.includes("anglicismos") || text.includes("únicos")) span.textContent = uniqueKeys;
   });
+}
+
+function populateAnglicismSelect() {
+  const platform = document.getElementById("platformFilter").value;
+  const rows     = filterByPlatform(platform);
+  const counts   = countByKey(rows);
+
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+
+  const select = document.getElementById("anglicismFilter");
+  const prev   = select.value;
+  select.innerHTML = '<option value="">Ver ranking general</option>';
+
+  sorted.forEach(([key, count]) => {
+    const opt       = document.createElement("option");
+    opt.value       = key;
+    opt.textContent = `${key} (${count})`;
+    select.appendChild(opt);
+  });
+
+  // Mantener selección si sigue existiendo
+  if ([...select.options].some((o) => o.value === prev)) select.value = prev;
 }
 
 /* ── Filters helper ─────────────────────────────────────────────────────────── */
@@ -84,39 +119,34 @@ function getFilters() {
 
 /* ── Chart data computation ─────────────────────────────────────────────────── */
 function computeChartData({ platform, anglicism, topN }) {
-  // Specific anglicism → distribution across platforms
+  // Anglicismo concreto → distribución por plataforma
   if (anglicism) {
-    const filtered = DATA.filter((r) => r.a === anglicism);
-    if (platform) return null; // both filters active: no chart
+    if (platform) return null; // ambos activos: sin gráfico
 
-    const counts = {};
+    const filtered = DATA.filter((r) => getKey(r) === anglicism);
+    const counts   = {};
     PLATFORMS.forEach((p) => { counts[p] = 0; });
-    filtered.forEach((r) => { counts[r.p] = (counts[r.p] || 0) + 1; });
+    filtered.forEach((r) => { counts[r.p]++; });
 
     return {
       labels: PLATFORMS,
       datasets: [{
         label: anglicism,
-        data: PLATFORMS.map((p) => counts[p]),
+        data:  PLATFORMS.map((p) => counts[p]),
         backgroundColor: PLATFORMS.map((p) => PLATFORM_COLORS[p].light),
         borderColor:     PLATFORMS.map((p) => PLATFORM_COLORS[p].solid),
-        borderWidth: 2,
-        borderRadius: 8,
+        borderWidth: 2, borderRadius: 8,
         pointBackgroundColor: PLATFORMS.map((p) => PLATFORM_COLORS[p].solid),
-        pointRadius: 6,
-        fill: false,
-        tension: 0.4,
+        pointRadius: 6, fill: false, tension: 0.4,
       }],
       title:    `«${anglicism}» por red social`,
       subtitle: `Distribución de ${filtered.length} ocurrencias entre las 3 plataformas`,
     };
   }
 
-  // Ranking mode
-  const filtered = platform ? DATA.filter((r) => r.p === platform) : DATA;
-  const counts = {};
-  filtered.forEach((r) => { counts[r.a] = (counts[r.a] || 0) + 1; });
-
+  // Ranking
+  const rows   = filterByPlatform(platform);
+  const counts = countByKey(rows);
   const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, topN);
   const labels = sorted.map((e) => e[0]);
   const values = sorted.map((e) => e[1]);
@@ -135,15 +165,13 @@ function computeChartData({ platform, anglicism, topN }) {
       borderWidth: 2,
       borderRadius: chartType !== "doughnut" ? 8 : 0,
       pointBackgroundColor: (platform ? PLATFORM_COLORS[platform] : DEFAULT_COLOR).solid,
-      pointRadius: 5,
-      fill: false,
-      tension: 0.4,
+      pointRadius: 5, fill: false, tension: 0.4,
     }],
     title: platform
       ? `Top ${topN} anglicismos en ${platform}`
       : `Top ${topN} anglicismos más usados`,
     subtitle: platform
-      ? `De un total de ${filtered.length} ocurrencias en ${platform}`
+      ? `De un total de ${rows.length} ocurrencias en ${platform}`
       : `De un total de ${DATA.length} ocurrencias en todo el corpus`,
   };
 }
@@ -164,7 +192,7 @@ function renderChart() {
       "Selecciona solo un filtro para ver el gráfico";
     if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
     document.querySelector(".chart-wrapper").innerHTML =
-      '<div class="empty-state">Selecciona solo la red social <em>o</em> el anglicismo para ver el gráfico.<br>Con ambos activos, consulta los ejemplos de abajo.</div>';
+      '<div class="empty-state">Selecciona solo la red social <em>o</em> el anglicismo.<br>Con ambos activos, consulta los ejemplos de abajo.</div>';
     renderExamples(filters);
     return;
   }
@@ -172,7 +200,6 @@ function renderChart() {
   document.getElementById("chartTitle").textContent    = chartData.title;
   document.getElementById("chartSubtitle").textContent = chartData.subtitle;
 
-  // Ensure canvas exists
   const wrapper = document.querySelector(".chart-wrapper");
   if (!wrapper.querySelector("canvas")) {
     wrapper.innerHTML = '<canvas id="mainChart"></canvas>';
@@ -204,21 +231,13 @@ function renderChart() {
         },
       },
       scales: chartType === "doughnut" ? {} : {
-        x: {
-          grid:  { color: "rgba(0,0,0,0.05)" },
-          ticks: { font: { size: 11 }, color: "#374151" },
-        },
-        y: {
-          grid:         { color: "rgba(0,0,0,0.05)" },
-          ticks:        { font: { size: 11 }, color: "#374151" },
-          beginAtZero:  true,
-        },
+        x: { grid: { color: "rgba(0,0,0,0.05)" }, ticks: { font: { size: 11 }, color: "#374151" } },
+        y: { grid: { color: "rgba(0,0,0,0.05)" }, ticks: { font: { size: 11 }, color: "#374151" }, beginAtZero: true },
       },
       animation: { duration: 400, easing: "easeInOutQuart" },
     },
   });
 
-  // Dynamic canvas height
   const n = chartData.labels.length;
   const h = chartType === "doughnut" ? 340 : isHorizontal ? Math.max(260, n * 30) : 340;
   document.getElementById("mainChart").style.height = `${h}px`;
@@ -232,7 +251,7 @@ function renderExamples({ platform, anglicism }) {
   if (!anglicism) { panel.style.display = "none"; return; }
 
   const filtered = DATA.filter(
-    (r) => r.a === anglicism && (!platform || r.p === platform)
+    (r) => getKey(r) === anglicism && (!platform || r.p === platform)
   );
 
   panel.style.display = "block";
@@ -244,34 +263,77 @@ function renderExamples({ platform, anglicism }) {
     return;
   }
 
-  grid.innerHTML = filtered
-    .map(
-      (r) => `
+  if (groupedMode) {
+    // Agrupar por variante exacta dentro del grupo canónico
+    const byVariant = {};
+    filtered.forEach((r) => {
+      byVariant[r.a] = byVariant[r.a] || [];
+      byVariant[r.a].push(r);
+    });
+
+    const variants = Object.keys(byVariant).sort();
+    const hasMultiple = variants.length > 1;
+
+    grid.innerHTML = variants.map((variant) => {
+      const rows    = byVariant[variant];
+      const isExact = variant === anglicism;   // es la forma canónica misma
+      const label   = hasMultiple && !isExact
+        ? `<span class="variant-tag">${variant}</span>`
+        : "";
+
+      return `
+        <div class="variant-group ${hasMultiple ? "has-variants" : ""}">
+          ${label}
+          <div class="variant-examples">
+            ${rows.map((r) => `
+              <div class="example-item">
+                <div class="example-meta">
+                  <span class="platform-badge badge-${r.p}">${r.p}</span>
+                </div>
+                <div class="example-phrase">«${r.f}»</div>
+              </div>`).join("")}
+          </div>
+        </div>`;
+    }).join("");
+  } else {
+    grid.innerHTML = filtered.map((r) => `
       <div class="example-item">
         <div class="example-meta">
           <span class="platform-badge badge-${r.p}">${r.p}</span>
         </div>
         <div class="example-phrase">«${r.f}»</div>
-      </div>`
-    )
-    .join("");
+      </div>`).join("");
+  }
+}
+
+/* ── Group toggle ───────────────────────────────────────────────────────────── */
+function setGroupMode(grouped) {
+  groupedMode = grouped;
+  document.getElementById("btnGrouped").classList.toggle("active", grouped);
+  document.getElementById("btnExact").classList.toggle("active", !grouped);
+  populateAnglicismSelect();
+  renderChart();
 }
 
 /* ── Event listeners ────────────────────────────────────────────────────────── */
 document.querySelectorAll(".chart-type-group button").forEach((btn) => {
   btn.addEventListener("click", () => {
-    document.querySelectorAll(".chart-type-group button").forEach((b) =>
-      b.classList.remove("active")
-    );
+    document.querySelectorAll(".chart-type-group button").forEach((b) => b.classList.remove("active"));
     btn.classList.add("active");
     chartType = btn.dataset.type;
     renderChart();
   });
 });
 
-document.getElementById("platformFilter").addEventListener("change", renderChart);
+document.getElementById("platformFilter").addEventListener("change", () => {
+  populateAnglicismSelect();
+  renderChart();
+});
 document.getElementById("anglicismFilter").addEventListener("change", renderChart);
 document.getElementById("topN").addEventListener("change", renderChart);
+
+document.getElementById("btnGrouped").addEventListener("click", () => setGroupMode(true));
+document.getElementById("btnExact").addEventListener("click",   () => setGroupMode(false));
 
 /* ── Bootstrap ──────────────────────────────────────────────────────────────── */
 loadData();
