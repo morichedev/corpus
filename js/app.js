@@ -54,6 +54,12 @@ function getVariantsOf(canonical) {
 
 /* ── UI init ────────────────────────────────────────────────────────────────── */
 function initUI() {
+  // Pills dinámicos
+  const total   = DATA.length;
+  const unique  = new Set(DATA.map((r) => r.canonical)).size;
+  document.querySelector("#pillTotal span").textContent  = total;
+  document.querySelector("#pillUnique span").textContent = unique;
+
   populateAnglicismSelect();
 }
 
