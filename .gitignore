@@ -3,3 +3,10 @@ __pycache__/
 .env
 .vercel
 node_modules/
+api/
+requirements.txt
+anglicismos.html
+Corpus_para_el_tfg.xlsx
+__pycache__/
+*.pyc
+.vercelignore
