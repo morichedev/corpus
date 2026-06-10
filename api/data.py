@@ -3,7 +3,7 @@ import os
 from http.server import BaseHTTPRequestHandler
 
 
-DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "anglicismos.json")
+DATA_PATH = os.path.join(os.path.dirname(__file__), "anglicismos.json")
 
 
 def load_data():
